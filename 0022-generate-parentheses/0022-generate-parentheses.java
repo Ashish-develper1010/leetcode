@@ -1,14 +1,7 @@
 class Solution {
-    public boolean valid(String str) {
-        Stack<Character> st = new Stack<>();
-        
-        return true;
-    }
     public void helper(int n , int open , int close , String str , List<String> list) {
         if(str.length() == 2*n) {
-            if(valid(str)) {
-                list.add(str);
-            }
+            list.add(str);
             return ;
         }
         if(open > 0) {
