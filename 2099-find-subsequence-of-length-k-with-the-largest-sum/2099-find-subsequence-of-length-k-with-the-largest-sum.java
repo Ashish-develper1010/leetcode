@@ -1,39 +1,22 @@
 class Solution {
-    class pair {
-        int first ;
-        int second ;
-
-        public pair(int f , int s) {
-            this.first = f;
-            this.second = s;
-        }
-    }
     public int[] maxSubsequence(int[] nums, int k) {
-        PriorityQueue<pair> pq = new PriorityQueue<>((a , b) -> Integer.compare(a.first , b.first));
-        ArrayList<pair> list = new ArrayList<>();
+        int[][] arr = new int[nums.length][2];
 
         for(int i = 0; i < nums.length; i++) {
-            pq.add(new pair(nums[i] , i));
-            if(pq.size() > k) pq.poll();
+            arr[i][0] = i;
+            arr[i][1] = nums[i];
         }
 
-        while(!pq.isEmpty()) {
-            pair p = pq.poll();
-            int fir = p.first;
-            int sec = p.second;
+        Arrays.sort(arr ,(a , b) -> Integer.compare(b[1] , a[1]));
 
-            list.add(new pair(fir , sec));
-        }
-
-        Collections.sort(list , (a , b) -> Integer.compare(a.second,b.second));
+        Arrays.sort(arr , 0 , k ,(a , b) -> Integer.compare(a[0] , b[0]));
 
         int[] res = new int[k];
-        int i = 0;
+        // int i = 0;
 
-        for(pair p : list) {
-            int fir = p.first;
-            res[i++] = fir;
+        for(int i = 0; i < k; i++) {
+            res[i] = arr[i][1];
         }
         return res;
-     }
+    }
 }
