@@ -1,17 +1,17 @@
 class Solution {
     public int findLHS(int[] nums) {
-        HashMap<Integer , Integer> map = new HashMap<>();
-
-        for(int num : nums) {
-            map.put(num , map.getOrDefault(num , 0)+1);
+        HashMap<Integer,Integer> map = new HashMap<>() ; 
+        for ( int num : nums  ) {
+            map.put(num , map.getOrDefault(num , 0) + 1 ) ; 
         }
-        int max = 0 , sum = 0;
-        for(int num : map.keySet()) {
+        int ans = 0 ; 
+        for (int num : map.keySet() ) {
+            int sum = 0 ; 
             if(map.containsKey(num+1)) {
-                sum = map.get(num) + map.get(num+1);
+                sum = map.get(num) + map.get(num+1) ; 
             }
-            max = Math.max(max , sum);
+            ans = Math.max(sum , ans ) ; 
         }
-        return max;
+        return ans ; 
     }
 }
