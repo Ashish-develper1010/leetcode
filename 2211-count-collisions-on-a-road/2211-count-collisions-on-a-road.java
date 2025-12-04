@@ -1,27 +1,18 @@
 class Solution {
-
     public int countCollisions(String directions) {
-        int res = 0;
-        int flag = -1;
-        for (char c : directions.toCharArray()) {
-            if (c == 'L') {
-                if (flag >= 0) {
-                    res += flag + 1;
-                    flag = 0;
-                }
-            } else if (c == 'S') {
-                if (flag > 0) {
-                    res += flag;
-                }
-                flag = 0;
-            } else {
-                if (flag >= 0) {
-                    flag++;
-                } else {
-                    flag = 1;
-                }
-            }
+        char[] arr = directions.toCharArray();
+        int i = 0 , j = arr.length-1 , ans = 0;
+        boolean left = false , right = false;
+
+        while(i <= j) {
+            while(i <= j && !left && arr[i] == 'L') i++;
+            while(i <= j && !right && arr[j] == 'R') j--;
+            left = true;
+            right = true;
+
+            if(i<= j && arr[i] != 'S') ans++;
+            i++;
         }
-        return res;
+        return ans;
     }
 }
