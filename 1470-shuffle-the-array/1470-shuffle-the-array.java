@@ -1,22 +1,13 @@
 class Solution {
     public int[] shuffle(int[] nums, int n) {
-        if(nums.length % 2 != 0 ) return new int[0];
+        int len = nums.length;
+        int[] ans = new int[len];
+        int j = 0 , k = 0;
 
-        int[] arr = new int[2*n];
-
-        int i = 0;
-        int j = n;
-        int k = 0;
-
-        while(i < n && j < 2*n) {
-            arr[k] = nums[i];
-            k++;
-            arr[k] = nums[j];
-            i++;
-            j++;
-            k++;
+        for(int i = 0; i < len; i++) {
+            if(i % 2 == 0) ans[i] = nums[j++];
+            else ans[i] = nums[k++ + n];
         }
-        return arr;
-        
+        return ans;
     }
 }
