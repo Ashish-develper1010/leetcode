@@ -1,12 +1,16 @@
+import java.math.BigInteger;
+
 class Solution {
     public int numSteps(String s) {
-        int num = Integer.parseInt(s,2);
-        if(num <= 1) return 0;
+        BigInteger val = new BigInteger(s, 2);
         int count = 0;
 
-        while(num != 1) {
-            if(num % 2 != 0) num++;
-            else num /= 2;
+        while (!val.equals(BigInteger.ONE)) {
+            if (val.testBit(0)) { // odd number check
+                val = val.add(BigInteger.ONE);
+            } else {
+                val = val.shiftRight(1); // divide by 2
+            }
             count++;
         }
 
