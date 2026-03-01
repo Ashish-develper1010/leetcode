@@ -1,17 +1,11 @@
 class Solution {
     public int minPartitions(String n) {
-        int maxDigit = 0;
-        
-        for (char c : n.toCharArray()) {
-            int digit = c - '0';
-            if (digit > maxDigit) {
-                maxDigit = digit;
-            }
-            
-            // Early exit (cannot exceed 9)
-            if (maxDigit == 9) return 9;
+        int max = Integer.MIN_VALUE;
+
+        for(char ch : n.toCharArray()) {
+            max = Math.max(max , ch - '0');
         }
-        
-        return maxDigit;
+
+        return max == Integer.MIN_VALUE ? -1 : max;
     }
 }
