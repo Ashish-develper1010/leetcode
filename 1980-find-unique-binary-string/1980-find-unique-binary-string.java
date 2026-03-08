@@ -1,34 +1,22 @@
 class Solution {
-    static String answer;
-    private void generate(StringBuilder sb, HashSet<String> set, int n) {
-        if(answer.length() != 0) return;
-        if(sb.length() == n) {
-            if(!set.contains(sb.toString())) answer = sb.toString();
-            return ;
-        }
 
-        // Add 0
-        sb.append("0");
-        generate(sb, set, n);
-        // Remove last 
-        sb.deleteCharAt(sb.length() - 1);
-        // Add 1
-        sb.append("1");
-        generate(sb, set, n);
-
-        sb.deleteCharAt(sb.length() - 1);
-
+    public String flip(int i , String str) {
+        StringBuilder sb = new StringBuilder(str);
+        if(sb.charAt(i) == '1')
+            sb.setCharAt(i , '0');
+        else sb.setCharAt(i , '1');
+        return sb.toString();
     }
     public String findDifferentBinaryString(String[] nums) {
         HashSet<String> set = new HashSet<>();
-        StringBuilder sb = new StringBuilder();
-        // String sb = "";
-        for(String s : nums) {
-            set.add(s);
+        for(String str : nums) set.add(str);
+
+
+        for(int i = 0; i < nums.length; i++) {
+            String s = flip(i , nums[i]);
+            if(!set.contains(s)) return s;
         }
 
-        answer = "";
-        generate(sb,set,nums.length);
-        return answer;
+        return "";
     }
 }
