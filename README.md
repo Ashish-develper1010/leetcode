@@ -15,6 +15,7 @@ All leetcode questions are available here
 | [1855-maximum-distance-between-a-pair-of-values](https://github.com/Ashish-develper1010/leetcode/tree/main/1855-maximum-distance-between-a-pair-of-values/) | Medium |
 | [1878-get-biggest-three-rhombus-sums-in-a-grid](https://github.com/Ashish-develper1010/leetcode/tree/main/1878-get-biggest-three-rhombus-sums-in-a-grid/) | Medium |
 | [1980-find-unique-binary-string](https://github.com/Ashish-develper1010/leetcode/tree/main/1980-find-unique-binary-string/) | Medium |
+| [2033-minimum-operations-to-make-a-uni-value-grid](https://github.com/Ashish-develper1010/leetcode/tree/main/2033-minimum-operations-to-make-a-uni-value-grid/) | Medium |
 | [2515-shortest-distance-to-target-string-in-a-circular-array](https://github.com/Ashish-develper1010/leetcode/tree/main/2515-shortest-distance-to-target-string-in-a-circular-array/) | Easy |
 | [2573-find-the-string-with-lcp](https://github.com/Ashish-develper1010/leetcode/tree/main/2573-find-the-string-with-lcp/) | Hard |
 | [2906-construct-product-matrix](https://github.com/Ashish-develper1010/leetcode/tree/main/2906-construct-product-matrix/) | Medium |
@@ -48,6 +49,7 @@ All leetcode questions are available here
 | [1594-maximum-non-negative-product-in-a-matrix](https://github.com/Ashish-develper1010/leetcode/tree/main/1594-maximum-non-negative-product-in-a-matrix/) | Medium |
 | [1727-largest-submatrix-with-rearrangements](https://github.com/Ashish-develper1010/leetcode/tree/main/1727-largest-submatrix-with-rearrangements/) | Medium |
 | [1878-get-biggest-three-rhombus-sums-in-a-grid](https://github.com/Ashish-develper1010/leetcode/tree/main/1878-get-biggest-three-rhombus-sums-in-a-grid/) | Medium |
+| [2033-minimum-operations-to-make-a-uni-value-grid](https://github.com/Ashish-develper1010/leetcode/tree/main/2033-minimum-operations-to-make-a-uni-value-grid/) | Medium |
 | [2573-find-the-string-with-lcp](https://github.com/Ashish-develper1010/leetcode/tree/main/2573-find-the-string-with-lcp/) | Hard |
 | [2906-construct-product-matrix](https://github.com/Ashish-develper1010/leetcode/tree/main/2906-construct-product-matrix/) | Medium |
 | [2946-matrix-similarity-after-cyclic-shifts](https://github.com/Ashish-develper1010/leetcode/tree/main/2946-matrix-similarity-after-cyclic-shifts/) | Easy |
@@ -131,6 +133,7 @@ All leetcode questions are available here
 | ------- | ------- |
 | [1622-fancy-sequence](https://github.com/Ashish-develper1010/leetcode/tree/main/1622-fancy-sequence/) | Hard |
 | [1878-get-biggest-three-rhombus-sums-in-a-grid](https://github.com/Ashish-develper1010/leetcode/tree/main/1878-get-biggest-three-rhombus-sums-in-a-grid/) | Medium |
+| [2033-minimum-operations-to-make-a-uni-value-grid](https://github.com/Ashish-develper1010/leetcode/tree/main/2033-minimum-operations-to-make-a-uni-value-grid/) | Medium |
 | [2946-matrix-similarity-after-cyclic-shifts](https://github.com/Ashish-develper1010/leetcode/tree/main/2946-matrix-similarity-after-cyclic-shifts/) | Easy |
 | [3296-minimum-number-of-seconds-to-make-mountain-height-zero](https://github.com/Ashish-develper1010/leetcode/tree/main/3296-minimum-number-of-seconds-to-make-mountain-height-zero/) | Medium |
 | [3464-maximize-the-distance-between-points-on-a-square](https://github.com/Ashish-develper1010/leetcode/tree/main/3464-maximize-the-distance-between-points-on-a-square/) | Hard |
@@ -162,6 +165,7 @@ All leetcode questions are available here
 | ------- | ------- |
 | [1727-largest-submatrix-with-rearrangements](https://github.com/Ashish-develper1010/leetcode/tree/main/1727-largest-submatrix-with-rearrangements/) | Medium |
 | [1878-get-biggest-three-rhombus-sums-in-a-grid](https://github.com/Ashish-develper1010/leetcode/tree/main/1878-get-biggest-three-rhombus-sums-in-a-grid/) | Medium |
+| [2033-minimum-operations-to-make-a-uni-value-grid](https://github.com/Ashish-develper1010/leetcode/tree/main/2033-minimum-operations-to-make-a-uni-value-grid/) | Medium |
 | [2840-check-if-strings-can-be-made-equal-with-operations-ii](https://github.com/Ashish-develper1010/leetcode/tree/main/2840-check-if-strings-can-be-made-equal-with-operations-ii/) | Medium |
 | [3464-maximize-the-distance-between-points-on-a-square](https://github.com/Ashish-develper1010/leetcode/tree/main/3464-maximize-the-distance-between-points-on-a-square/) | Hard |
 | [3661-maximum-walls-destroyed-by-robots](https://github.com/Ashish-develper1010/leetcode/tree/main/3661-maximum-walls-destroyed-by-robots/) | Hard |
