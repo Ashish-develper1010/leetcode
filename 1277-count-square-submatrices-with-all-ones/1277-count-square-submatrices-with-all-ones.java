@@ -1,33 +1,27 @@
 class Solution {
     public int countSquares(int[][] matrix) {
-        int rowLen = matrix.length;
-        int colLen = matrix[0].length;
-        int dp[][] = new int[rowLen][colLen];
-
-        for(int i = 0; i < rowLen; i++) {
-            dp[i][0] = matrix[i][0];
+        int m = matrix.length;
+        int n = matrix[0].length;
+        int[][] dp = new int[m+1][n+1];
+        for(int[] d : dp) {
+            Arrays.fill(d , -1);
         }
-        for(int j = 0; j < colLen; j++) {
-            dp[0][j] = matrix[0][j];
-        }    
-
-        for(int i = 1; i < rowLen; i++) {
-            for(int j = 1; j < colLen; j++) {
-                if(matrix[i][j] == 0) dp[i][j] = 0;
-                else {
-                    dp[i][j] = 1 + Math.min(dp[i-1][j], Math.min(dp[i][j-1] , dp[i-1][j-1]));
-                }
+        int total = 0;
+        for(int i = 0; i < m; i++) {
+            for(int j = 0; j < n; j++) {
+                total += helper(matrix, i, j, dp);
             }
         }
+        return total;
+    }
+    public int helper(int[][] matrix, int i , int j, int[][] dp) {
+        if(i < 0 || j < 0) return 0;
 
-        int ans = 0;
+        if(dp[i][j] != -1) return dp[i][j];
 
-        for(int[] arr : dp) {
-            for(int ele : arr) {
-                ans += ele;
-            }
+        if(matrix[i][j] == 1) {
+            return dp[i][j] = 1 + Math.min(helper(matrix, i - 1, j, dp), Math.min(helper(matrix, i, j -1, dp), helper(matrix , i - 1, j - 1, dp)));
         }
-
-        return ans;
+        return 0;
     }
 }
