@@ -95,6 +95,7 @@ All leetcode questions are available here
 ## Dynamic Programming
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0062-unique-paths](https://github.com/Ashish-develper1010/leetcode/tree/main/0062-unique-paths/) | Medium |
 | [0198-house-robber](https://github.com/Ashish-develper1010/leetcode/tree/main/0198-house-robber/) | Medium |
 | [0746-min-cost-climbing-stairs](https://github.com/Ashish-develper1010/leetcode/tree/main/0746-min-cost-climbing-stairs/) | Easy |
 | [0788-rotated-digits](https://github.com/Ashish-develper1010/leetcode/tree/main/0788-rotated-digits/) | Medium |
@@ -139,6 +140,7 @@ All leetcode questions are available here
 ## Math
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0062-unique-paths](https://github.com/Ashish-develper1010/leetcode/tree/main/0062-unique-paths/) | Medium |
 | [0788-rotated-digits](https://github.com/Ashish-develper1010/leetcode/tree/main/0788-rotated-digits/) | Medium |
 | [1622-fancy-sequence](https://github.com/Ashish-develper1010/leetcode/tree/main/1622-fancy-sequence/) | Hard |
 | [1878-get-biggest-three-rhombus-sums-in-a-grid](https://github.com/Ashish-develper1010/leetcode/tree/main/1878-get-biggest-three-rhombus-sums-in-a-grid/) | Medium |
@@ -218,4 +220,8 @@ All leetcode questions are available here
 | ------- | ------- |
 | [1391-check-if-there-is-a-valid-path-in-a-grid](https://github.com/Ashish-develper1010/leetcode/tree/main/1391-check-if-there-is-a-valid-path-in-a-grid/) | Medium |
 | [1559-detect-cycles-in-2d-grid](https://github.com/Ashish-develper1010/leetcode/tree/main/1559-detect-cycles-in-2d-grid/) | Medium |
+## Combinatorics
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0062-unique-paths](https://github.com/Ashish-develper1010/leetcode/tree/main/0062-unique-paths/) | Medium |
 <!---LeetCode Topics End-->
