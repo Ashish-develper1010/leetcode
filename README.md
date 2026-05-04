@@ -6,6 +6,7 @@ All leetcode questions are available here
 ## Array
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0048-rotate-image](https://github.com/Ashish-develper1010/leetcode/tree/main/0048-rotate-image/) | Medium |
 | [0063-unique-paths-ii](https://github.com/Ashish-develper1010/leetcode/tree/main/0063-unique-paths-ii/) | Medium |
 | [0198-house-robber](https://github.com/Ashish-develper1010/leetcode/tree/main/0198-house-robber/) | Medium |
 | [0746-min-cost-climbing-stairs](https://github.com/Ashish-develper1010/leetcode/tree/main/0746-min-cost-climbing-stairs/) | Easy |
@@ -48,6 +49,7 @@ All leetcode questions are available here
 ## Matrix
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0048-rotate-image](https://github.com/Ashish-develper1010/leetcode/tree/main/0048-rotate-image/) | Medium |
 | [0063-unique-paths-ii](https://github.com/Ashish-develper1010/leetcode/tree/main/0063-unique-paths-ii/) | Medium |
 | [1277-count-square-submatrices-with-all-ones](https://github.com/Ashish-develper1010/leetcode/tree/main/1277-count-square-submatrices-with-all-ones/) | Medium |
 | [1391-check-if-there-is-a-valid-path-in-a-grid](https://github.com/Ashish-develper1010/leetcode/tree/main/1391-check-if-there-is-a-valid-path-in-a-grid/) | Medium |
@@ -146,6 +148,7 @@ All leetcode questions are available here
 ## Math
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0048-rotate-image](https://github.com/Ashish-develper1010/leetcode/tree/main/0048-rotate-image/) | Medium |
 | [0062-unique-paths](https://github.com/Ashish-develper1010/leetcode/tree/main/0062-unique-paths/) | Medium |
 | [0788-rotated-digits](https://github.com/Ashish-develper1010/leetcode/tree/main/0788-rotated-digits/) | Medium |
 | [1622-fancy-sequence](https://github.com/Ashish-develper1010/leetcode/tree/main/1622-fancy-sequence/) | Hard |
