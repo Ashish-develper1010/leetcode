@@ -223,11 +223,13 @@ All leetcode questions are available here
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0094-binary-tree-inorder-traversal](https://github.com/Ashish-develper1010/leetcode/tree/main/0094-binary-tree-inorder-traversal/) | Easy |
+| [0100-same-tree](https://github.com/Ashish-develper1010/leetcode/tree/main/0100-same-tree/) | Easy |
 | [1391-check-if-there-is-a-valid-path-in-a-grid](https://github.com/Ashish-develper1010/leetcode/tree/main/1391-check-if-there-is-a-valid-path-in-a-grid/) | Medium |
 | [1559-detect-cycles-in-2d-grid](https://github.com/Ashish-develper1010/leetcode/tree/main/1559-detect-cycles-in-2d-grid/) | Medium |
 ## Breadth-First Search
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0100-same-tree](https://github.com/Ashish-develper1010/leetcode/tree/main/0100-same-tree/) | Easy |
 | [1391-check-if-there-is-a-valid-path-in-a-grid](https://github.com/Ashish-develper1010/leetcode/tree/main/1391-check-if-there-is-a-valid-path-in-a-grid/) | Medium |
 | [1559-detect-cycles-in-2d-grid](https://github.com/Ashish-develper1010/leetcode/tree/main/1559-detect-cycles-in-2d-grid/) | Medium |
 ## Combinatorics
@@ -242,8 +244,10 @@ All leetcode questions are available here
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0094-binary-tree-inorder-traversal](https://github.com/Ashish-develper1010/leetcode/tree/main/0094-binary-tree-inorder-traversal/) | Easy |
+| [0100-same-tree](https://github.com/Ashish-develper1010/leetcode/tree/main/0100-same-tree/) | Easy |
 ## Binary Tree
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0094-binary-tree-inorder-traversal](https://github.com/Ashish-develper1010/leetcode/tree/main/0094-binary-tree-inorder-traversal/) | Easy |
+| [0100-same-tree](https://github.com/Ashish-develper1010/leetcode/tree/main/0100-same-tree/) | Easy |
 <!---LeetCode Topics End-->
