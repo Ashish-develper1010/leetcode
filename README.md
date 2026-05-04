@@ -70,6 +70,7 @@ All leetcode questions are available here
 ## String
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0257-binary-tree-paths](https://github.com/Ashish-develper1010/leetcode/tree/main/0257-binary-tree-paths/) | Easy |
 | [0657-robot-return-to-origin](https://github.com/Ashish-develper1010/leetcode/tree/main/0657-robot-return-to-origin/) | Easy |
 | [0796-rotate-string](https://github.com/Ashish-develper1010/leetcode/tree/main/0796-rotate-string/) | Easy |
 | [1320-minimum-distance-to-type-a-word-using-two-fingers](https://github.com/Ashish-develper1010/leetcode/tree/main/1320-minimum-distance-to-type-a-word-using-two-fingers/) | Hard |
@@ -130,6 +131,7 @@ All leetcode questions are available here
 ## Backtracking
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0257-binary-tree-paths](https://github.com/Ashish-develper1010/leetcode/tree/main/0257-binary-tree-paths/) | Easy |
 | [1415-the-k-th-lexicographical-string-of-all-happy-strings-of-length-n](https://github.com/Ashish-develper1010/leetcode/tree/main/1415-the-k-th-lexicographical-string-of-all-happy-strings-of-length-n/) | Medium |
 | [1980-find-unique-binary-string](https://github.com/Ashish-develper1010/leetcode/tree/main/1980-find-unique-binary-string/) | Medium |
 ## Prefix Sum
@@ -225,6 +227,7 @@ All leetcode questions are available here
 | [0094-binary-tree-inorder-traversal](https://github.com/Ashish-develper1010/leetcode/tree/main/0094-binary-tree-inorder-traversal/) | Easy |
 | [0100-same-tree](https://github.com/Ashish-develper1010/leetcode/tree/main/0100-same-tree/) | Easy |
 | [0110-balanced-binary-tree](https://github.com/Ashish-develper1010/leetcode/tree/main/0110-balanced-binary-tree/) | Easy |
+| [0257-binary-tree-paths](https://github.com/Ashish-develper1010/leetcode/tree/main/0257-binary-tree-paths/) | Easy |
 | [0543-diameter-of-binary-tree](https://github.com/Ashish-develper1010/leetcode/tree/main/0543-diameter-of-binary-tree/) | Easy |
 | [1391-check-if-there-is-a-valid-path-in-a-grid](https://github.com/Ashish-develper1010/leetcode/tree/main/1391-check-if-there-is-a-valid-path-in-a-grid/) | Medium |
 | [1559-detect-cycles-in-2d-grid](https://github.com/Ashish-develper1010/leetcode/tree/main/1559-detect-cycles-in-2d-grid/) | Medium |
@@ -248,6 +251,7 @@ All leetcode questions are available here
 | [0094-binary-tree-inorder-traversal](https://github.com/Ashish-develper1010/leetcode/tree/main/0094-binary-tree-inorder-traversal/) | Easy |
 | [0100-same-tree](https://github.com/Ashish-develper1010/leetcode/tree/main/0100-same-tree/) | Easy |
 | [0110-balanced-binary-tree](https://github.com/Ashish-develper1010/leetcode/tree/main/0110-balanced-binary-tree/) | Easy |
+| [0257-binary-tree-paths](https://github.com/Ashish-develper1010/leetcode/tree/main/0257-binary-tree-paths/) | Easy |
 | [0543-diameter-of-binary-tree](https://github.com/Ashish-develper1010/leetcode/tree/main/0543-diameter-of-binary-tree/) | Easy |
 ## Binary Tree
 | Problem Name | Difficulty |
@@ -255,5 +259,6 @@ All leetcode questions are available here
 | [0094-binary-tree-inorder-traversal](https://github.com/Ashish-develper1010/leetcode/tree/main/0094-binary-tree-inorder-traversal/) | Easy |
 | [0100-same-tree](https://github.com/Ashish-develper1010/leetcode/tree/main/0100-same-tree/) | Easy |
 | [0110-balanced-binary-tree](https://github.com/Ashish-develper1010/leetcode/tree/main/0110-balanced-binary-tree/) | Easy |
+| [0257-binary-tree-paths](https://github.com/Ashish-develper1010/leetcode/tree/main/0257-binary-tree-paths/) | Easy |
 | [0543-diameter-of-binary-tree](https://github.com/Ashish-develper1010/leetcode/tree/main/0543-diameter-of-binary-tree/) | Easy |
 <!---LeetCode Topics End-->
