@@ -228,6 +228,7 @@ All leetcode questions are available here
 | [0094-binary-tree-inorder-traversal](https://github.com/Ashish-develper1010/leetcode/tree/main/0094-binary-tree-inorder-traversal/) | Easy |
 | [0100-same-tree](https://github.com/Ashish-develper1010/leetcode/tree/main/0100-same-tree/) | Easy |
 | [0110-balanced-binary-tree](https://github.com/Ashish-develper1010/leetcode/tree/main/0110-balanced-binary-tree/) | Easy |
+| [0226-invert-binary-tree](https://github.com/Ashish-develper1010/leetcode/tree/main/0226-invert-binary-tree/) | Easy |
 | [0257-binary-tree-paths](https://github.com/Ashish-develper1010/leetcode/tree/main/0257-binary-tree-paths/) | Easy |
 | [0543-diameter-of-binary-tree](https://github.com/Ashish-develper1010/leetcode/tree/main/0543-diameter-of-binary-tree/) | Easy |
 | [1391-check-if-there-is-a-valid-path-in-a-grid](https://github.com/Ashish-develper1010/leetcode/tree/main/1391-check-if-there-is-a-valid-path-in-a-grid/) | Medium |
@@ -236,6 +237,7 @@ All leetcode questions are available here
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0100-same-tree](https://github.com/Ashish-develper1010/leetcode/tree/main/0100-same-tree/) | Easy |
+| [0226-invert-binary-tree](https://github.com/Ashish-develper1010/leetcode/tree/main/0226-invert-binary-tree/) | Easy |
 | [1391-check-if-there-is-a-valid-path-in-a-grid](https://github.com/Ashish-develper1010/leetcode/tree/main/1391-check-if-there-is-a-valid-path-in-a-grid/) | Medium |
 | [1559-detect-cycles-in-2d-grid](https://github.com/Ashish-develper1010/leetcode/tree/main/1559-detect-cycles-in-2d-grid/) | Medium |
 ## Combinatorics
@@ -252,6 +254,7 @@ All leetcode questions are available here
 | [0094-binary-tree-inorder-traversal](https://github.com/Ashish-develper1010/leetcode/tree/main/0094-binary-tree-inorder-traversal/) | Easy |
 | [0100-same-tree](https://github.com/Ashish-develper1010/leetcode/tree/main/0100-same-tree/) | Easy |
 | [0110-balanced-binary-tree](https://github.com/Ashish-develper1010/leetcode/tree/main/0110-balanced-binary-tree/) | Easy |
+| [0226-invert-binary-tree](https://github.com/Ashish-develper1010/leetcode/tree/main/0226-invert-binary-tree/) | Easy |
 | [0257-binary-tree-paths](https://github.com/Ashish-develper1010/leetcode/tree/main/0257-binary-tree-paths/) | Easy |
 | [0543-diameter-of-binary-tree](https://github.com/Ashish-develper1010/leetcode/tree/main/0543-diameter-of-binary-tree/) | Easy |
 ## Binary Tree
@@ -260,6 +263,7 @@ All leetcode questions are available here
 | [0094-binary-tree-inorder-traversal](https://github.com/Ashish-develper1010/leetcode/tree/main/0094-binary-tree-inorder-traversal/) | Easy |
 | [0100-same-tree](https://github.com/Ashish-develper1010/leetcode/tree/main/0100-same-tree/) | Easy |
 | [0110-balanced-binary-tree](https://github.com/Ashish-develper1010/leetcode/tree/main/0110-balanced-binary-tree/) | Easy |
+| [0226-invert-binary-tree](https://github.com/Ashish-develper1010/leetcode/tree/main/0226-invert-binary-tree/) | Easy |
 | [0257-binary-tree-paths](https://github.com/Ashish-develper1010/leetcode/tree/main/0257-binary-tree-paths/) | Easy |
 | [0543-diameter-of-binary-tree](https://github.com/Ashish-develper1010/leetcode/tree/main/0543-diameter-of-binary-tree/) | Easy |
 ## Linked List
