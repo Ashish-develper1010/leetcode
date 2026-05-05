@@ -194,6 +194,7 @@ All leetcode questions are available here
 ## Two Pointers
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0061-rotate-list](https://github.com/Ashish-develper1010/leetcode/tree/main/0061-rotate-list/) | Medium |
 | [1855-maximum-distance-between-a-pair-of-values](https://github.com/Ashish-develper1010/leetcode/tree/main/1855-maximum-distance-between-a-pair-of-values/) | Medium |
 | [3643-flip-square-submatrix-vertically](https://github.com/Ashish-develper1010/leetcode/tree/main/3643-flip-square-submatrix-vertically/) | Easy |
 ## Enumeration
@@ -261,4 +262,8 @@ All leetcode questions are available here
 | [0110-balanced-binary-tree](https://github.com/Ashish-develper1010/leetcode/tree/main/0110-balanced-binary-tree/) | Easy |
 | [0257-binary-tree-paths](https://github.com/Ashish-develper1010/leetcode/tree/main/0257-binary-tree-paths/) | Easy |
 | [0543-diameter-of-binary-tree](https://github.com/Ashish-develper1010/leetcode/tree/main/0543-diameter-of-binary-tree/) | Easy |
+## Linked List
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0061-rotate-list](https://github.com/Ashish-develper1010/leetcode/tree/main/0061-rotate-list/) | Medium |
 <!---LeetCode Topics End-->
