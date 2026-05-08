@@ -7,8 +7,23 @@ class Solution {
 
         for(int i = 0; i < n; i++) {
             if(vis[i] == -1) {
-                if(!bfs(graph, i, vis)) return false;
+                vis[i] = 0;
+                if(!dfs(graph, i, vis)) return false;
             }
+        }
+        return true;
+    }
+
+    private boolean dfs(int[][] graph, int i, int[] vis) {
+        // if(i == 0) vis[i] = 0;   
+        
+
+        for(int ele : graph[i]) {
+            if(vis[ele] == -1) {
+                vis[ele] = 1 - vis[i];
+                if(!dfs(graph, ele, vis)) return false;
+            }
+            else if (vis[i] == vis[ele]) return false;
         }
         return true;
     }
