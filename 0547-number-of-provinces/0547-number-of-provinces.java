@@ -6,7 +6,7 @@ class Solution {
 
         for(int i = 0; i < n; i++) {
             if(!vis[i]) {
-                bfs(isConnected, vis,i);
+                dfs(isConnected, vis,i);
                 count++;
             }
         }
@@ -14,19 +14,14 @@ class Solution {
         return count;
     }
 
-    private void bfs(int[][] adj, boolean[] vis, int i) {
+    private void dfs(int[][] adj, boolean[] vis, int i) {
+        int n = adj.length;
         vis[i] = true;
-        Queue<Integer> qu = new LinkedList<>();
-        qu.add(i);
 
-        while(!qu.isEmpty()) {
-            int curr = qu.poll();
-            for(int j = 0; j < adj.length; j++) {
-                if(adj[curr][j] == 1 && !vis[j]) {
-                    qu.add(j);
-                    vis[j] = true;
-                }
+        for(int j = 0; j < n; j++) {
+            if(adj[i][j] == 1 && !vis[j]) {
+                dfs(adj, vis, j);
             }
-        } 
+        }
     }
 }
