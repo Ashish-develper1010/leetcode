@@ -22,6 +22,7 @@ All leetcode questions are available here
 | [1855-maximum-distance-between-a-pair-of-values](https://github.com/Ashish-develper1010/leetcode/tree/main/1855-maximum-distance-between-a-pair-of-values/) | Medium |
 | [1861-rotating-the-box](https://github.com/Ashish-develper1010/leetcode/tree/main/1861-rotating-the-box/) | Medium |
 | [1878-get-biggest-three-rhombus-sums-in-a-grid](https://github.com/Ashish-develper1010/leetcode/tree/main/1878-get-biggest-three-rhombus-sums-in-a-grid/) | Medium |
+| [1914-cyclically-rotating-a-grid](https://github.com/Ashish-develper1010/leetcode/tree/main/1914-cyclically-rotating-a-grid/) | Medium |
 | [1980-find-unique-binary-string](https://github.com/Ashish-develper1010/leetcode/tree/main/1980-find-unique-binary-string/) | Medium |
 | [2033-minimum-operations-to-make-a-uni-value-grid](https://github.com/Ashish-develper1010/leetcode/tree/main/2033-minimum-operations-to-make-a-uni-value-grid/) | Medium |
 | [2515-shortest-distance-to-target-string-in-a-circular-array](https://github.com/Ashish-develper1010/leetcode/tree/main/2515-shortest-distance-to-target-string-in-a-circular-array/) | Easy |
@@ -64,6 +65,7 @@ All leetcode questions are available here
 | [1727-largest-submatrix-with-rearrangements](https://github.com/Ashish-develper1010/leetcode/tree/main/1727-largest-submatrix-with-rearrangements/) | Medium |
 | [1861-rotating-the-box](https://github.com/Ashish-develper1010/leetcode/tree/main/1861-rotating-the-box/) | Medium |
 | [1878-get-biggest-three-rhombus-sums-in-a-grid](https://github.com/Ashish-develper1010/leetcode/tree/main/1878-get-biggest-three-rhombus-sums-in-a-grid/) | Medium |
+| [1914-cyclically-rotating-a-grid](https://github.com/Ashish-develper1010/leetcode/tree/main/1914-cyclically-rotating-a-grid/) | Medium |
 | [2033-minimum-operations-to-make-a-uni-value-grid](https://github.com/Ashish-develper1010/leetcode/tree/main/2033-minimum-operations-to-make-a-uni-value-grid/) | Medium |
 | [2573-find-the-string-with-lcp](https://github.com/Ashish-develper1010/leetcode/tree/main/2573-find-the-string-with-lcp/) | Hard |
 | [2906-construct-product-matrix](https://github.com/Ashish-develper1010/leetcode/tree/main/2906-construct-product-matrix/) | Medium |
@@ -101,6 +103,7 @@ All leetcode questions are available here
 | ------- | ------- |
 | [0657-robot-return-to-origin](https://github.com/Ashish-develper1010/leetcode/tree/main/0657-robot-return-to-origin/) | Easy |
 | [1545-find-kth-bit-in-nth-binary-string](https://github.com/Ashish-develper1010/leetcode/tree/main/1545-find-kth-bit-in-nth-binary-string/) | Medium |
+| [1914-cyclically-rotating-a-grid](https://github.com/Ashish-develper1010/leetcode/tree/main/1914-cyclically-rotating-a-grid/) | Medium |
 | [2069-walking-robot-simulation-ii](https://github.com/Ashish-develper1010/leetcode/tree/main/2069-walking-robot-simulation-ii/) | Medium |
 | [2075-decode-the-slanted-ciphertext](https://github.com/Ashish-develper1010/leetcode/tree/main/2075-decode-the-slanted-ciphertext/) | Medium |
 | [2946-matrix-similarity-after-cyclic-shifts](https://github.com/Ashish-develper1010/leetcode/tree/main/2946-matrix-similarity-after-cyclic-shifts/) | Easy |
