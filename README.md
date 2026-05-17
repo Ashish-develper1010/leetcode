@@ -16,6 +16,7 @@ All leetcode questions are available here
 | [0746-min-cost-climbing-stairs](https://github.com/Ashish-develper1010/leetcode/tree/main/0746-min-cost-climbing-stairs/) | Easy |
 | [1186-maximum-subarray-sum-with-one-deletion](https://github.com/Ashish-develper1010/leetcode/tree/main/1186-maximum-subarray-sum-with-one-deletion/) | Medium |
 | [1277-count-square-submatrices-with-all-ones](https://github.com/Ashish-develper1010/leetcode/tree/main/1277-count-square-submatrices-with-all-ones/) | Medium |
+| [1306-jump-game-iii](https://github.com/Ashish-develper1010/leetcode/tree/main/1306-jump-game-iii/) | Medium |
 | [1391-check-if-there-is-a-valid-path-in-a-grid](https://github.com/Ashish-develper1010/leetcode/tree/main/1391-check-if-there-is-a-valid-path-in-a-grid/) | Medium |
 | [1536-minimum-swaps-to-arrange-a-binary-grid](https://github.com/Ashish-develper1010/leetcode/tree/main/1536-minimum-swaps-to-arrange-a-binary-grid/) | Medium |
 | [1559-detect-cycles-in-2d-grid](https://github.com/Ashish-develper1010/leetcode/tree/main/1559-detect-cycles-in-2d-grid/) | Medium |
@@ -269,6 +270,7 @@ All leetcode questions are available here
 | [0543-diameter-of-binary-tree](https://github.com/Ashish-develper1010/leetcode/tree/main/0543-diameter-of-binary-tree/) | Easy |
 | [0547-number-of-provinces](https://github.com/Ashish-develper1010/leetcode/tree/main/0547-number-of-provinces/) | Medium |
 | [0785-is-graph-bipartite](https://github.com/Ashish-develper1010/leetcode/tree/main/0785-is-graph-bipartite/) | Medium |
+| [1306-jump-game-iii](https://github.com/Ashish-develper1010/leetcode/tree/main/1306-jump-game-iii/) | Medium |
 | [1391-check-if-there-is-a-valid-path-in-a-grid](https://github.com/Ashish-develper1010/leetcode/tree/main/1391-check-if-there-is-a-valid-path-in-a-grid/) | Medium |
 | [1559-detect-cycles-in-2d-grid](https://github.com/Ashish-develper1010/leetcode/tree/main/1559-detect-cycles-in-2d-grid/) | Medium |
 | [1971-find-if-path-exists-in-graph](https://github.com/Ashish-develper1010/leetcode/tree/main/1971-find-if-path-exists-in-graph/) | Easy |
@@ -284,6 +286,7 @@ All leetcode questions are available here
 | [0297-serialize-and-deserialize-binary-tree](https://github.com/Ashish-develper1010/leetcode/tree/main/0297-serialize-and-deserialize-binary-tree/) | Hard |
 | [0547-number-of-provinces](https://github.com/Ashish-develper1010/leetcode/tree/main/0547-number-of-provinces/) | Medium |
 | [0785-is-graph-bipartite](https://github.com/Ashish-develper1010/leetcode/tree/main/0785-is-graph-bipartite/) | Medium |
+| [1306-jump-game-iii](https://github.com/Ashish-develper1010/leetcode/tree/main/1306-jump-game-iii/) | Medium |
 | [1391-check-if-there-is-a-valid-path-in-a-grid](https://github.com/Ashish-develper1010/leetcode/tree/main/1391-check-if-there-is-a-valid-path-in-a-grid/) | Medium |
 | [1559-detect-cycles-in-2d-grid](https://github.com/Ashish-develper1010/leetcode/tree/main/1559-detect-cycles-in-2d-grid/) | Medium |
 | [1971-find-if-path-exists-in-graph](https://github.com/Ashish-develper1010/leetcode/tree/main/1971-find-if-path-exists-in-graph/) | Easy |
