@@ -22,21 +22,18 @@ class Solution {
         int left = helper(root.left);
         int right = helper(root.right);
 
-        int sum1 = left + right + root.val;
-        int sum2 = Math.max(left, right) + root.val;
-        int sum3 = root.val;
+        int totalsum = left + right + root.val;
+        int maxSum = Math.max(left , right) + root.val;
+        int onlyRoot = root.val;
 
-        ans = Math.max(ans, Math.max(sum1, Math.max(sum2, sum3)));
+        ans  = Math.max(ans, Math.max(totalsum, Math.max(maxSum, onlyRoot)));
 
-        return Math.max(sum2, sum3);
+        return Math.max(maxSum, onlyRoot);
     }
     public int maxPathSum(TreeNode root) {
-        // if(root == null) return 0;
-
         ans = Integer.MIN_VALUE;
 
         helper(root);
-
         return ans;
     }
 }
