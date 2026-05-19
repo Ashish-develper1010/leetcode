@@ -14,27 +14,20 @@
  * }
  */
 class Solution {
-    public int height(TreeNode root) {
-        if (root == null) return 0;
+    public int helper(TreeNode root) {
+        if(root == null ) return 0;
 
-        int left = height(root.left);
-        int right = height(root.right);
+        int left = helper(root.left);
+        if(left == -1) return -1;
+        int right = helper(root.right);
+        if(right == -1) return -1;
 
-        // update diameter (edges)
-        // diameter = Math.max(diameter, left + right);
+        if(Math.abs(left - right) > 1) return -1;
 
-        return 1 + Math.max(left, right);
+        return Math.max(left , right) + 1;
     }
     public boolean isBalanced(TreeNode root) {
-        if(root == null) return true;
-
-        int left = height(root.left);
-        int right = height(root.right);
-
-        int diff = Math.abs(left - right);
-
-        if(diff > 1) return false;
-
-        return isBalanced(root.left) && isBalanced(root.right);
+        int res = helper(root);
+        return res != -1;
     }
 }
