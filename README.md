@@ -19,6 +19,7 @@ All leetcode questions are available here
 | [1186-maximum-subarray-sum-with-one-deletion](https://github.com/Ashish-develper1010/leetcode/tree/main/1186-maximum-subarray-sum-with-one-deletion/) | Medium |
 | [1277-count-square-submatrices-with-all-ones](https://github.com/Ashish-develper1010/leetcode/tree/main/1277-count-square-submatrices-with-all-ones/) | Medium |
 | [1306-jump-game-iii](https://github.com/Ashish-develper1010/leetcode/tree/main/1306-jump-game-iii/) | Medium |
+| [1340-jump-game-v](https://github.com/Ashish-develper1010/leetcode/tree/main/1340-jump-game-v/) | Hard |
 | [1345-jump-game-iv](https://github.com/Ashish-develper1010/leetcode/tree/main/1345-jump-game-iv/) | Hard |
 | [1391-check-if-there-is-a-valid-path-in-a-grid](https://github.com/Ashish-develper1010/leetcode/tree/main/1391-check-if-there-is-a-valid-path-in-a-grid/) | Medium |
 | [1536-minimum-swaps-to-arrange-a-binary-grid](https://github.com/Ashish-develper1010/leetcode/tree/main/1536-minimum-swaps-to-arrange-a-binary-grid/) | Medium |
@@ -136,6 +137,7 @@ All leetcode questions are available here
 | [1186-maximum-subarray-sum-with-one-deletion](https://github.com/Ashish-develper1010/leetcode/tree/main/1186-maximum-subarray-sum-with-one-deletion/) | Medium |
 | [1277-count-square-submatrices-with-all-ones](https://github.com/Ashish-develper1010/leetcode/tree/main/1277-count-square-submatrices-with-all-ones/) | Medium |
 | [1320-minimum-distance-to-type-a-word-using-two-fingers](https://github.com/Ashish-develper1010/leetcode/tree/main/1320-minimum-distance-to-type-a-word-using-two-fingers/) | Hard |
+| [1340-jump-game-v](https://github.com/Ashish-develper1010/leetcode/tree/main/1340-jump-game-v/) | Hard |
 | [1594-maximum-non-negative-product-in-a-matrix](https://github.com/Ashish-develper1010/leetcode/tree/main/1594-maximum-non-negative-product-in-a-matrix/) | Medium |
 | [1888-minimum-number-of-flips-to-make-the-binary-string-alternating](https://github.com/Ashish-develper1010/leetcode/tree/main/1888-minimum-number-of-flips-to-make-the-binary-string-alternating/) | Medium |
 | [2573-find-the-string-with-lcp](https://github.com/Ashish-develper1010/leetcode/tree/main/2573-find-the-string-with-lcp/) | Hard |
@@ -227,6 +229,7 @@ All leetcode questions are available here
 ## Sorting
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [1340-jump-game-v](https://github.com/Ashish-develper1010/leetcode/tree/main/1340-jump-game-v/) | Hard |
 | [1727-largest-submatrix-with-rearrangements](https://github.com/Ashish-develper1010/leetcode/tree/main/1727-largest-submatrix-with-rearrangements/) | Medium |
 | [1878-get-biggest-three-rhombus-sums-in-a-grid](https://github.com/Ashish-develper1010/leetcode/tree/main/1878-get-biggest-three-rhombus-sums-in-a-grid/) | Medium |
 | [2033-minimum-operations-to-make-a-uni-value-grid](https://github.com/Ashish-develper1010/leetcode/tree/main/2033-minimum-operations-to-make-a-uni-value-grid/) | Medium |
