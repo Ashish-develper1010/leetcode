@@ -17,6 +17,7 @@ All leetcode questions are available here
 | [0213-house-robber-ii](https://github.com/Ashish-develper1010/leetcode/tree/main/0213-house-robber-ii/) | Medium |
 | [0322-coin-change](https://github.com/Ashish-develper1010/leetcode/tree/main/0322-coin-change/) | Medium |
 | [0416-partition-equal-subset-sum](https://github.com/Ashish-develper1010/leetcode/tree/main/0416-partition-equal-subset-sum/) | Medium |
+| [0494-target-sum](https://github.com/Ashish-develper1010/leetcode/tree/main/0494-target-sum/) | Medium |
 | [0518-coin-change-ii](https://github.com/Ashish-develper1010/leetcode/tree/main/0518-coin-change-ii/) | Medium |
 | [0746-min-cost-climbing-stairs](https://github.com/Ashish-develper1010/leetcode/tree/main/0746-min-cost-climbing-stairs/) | Easy |
 | [1186-maximum-subarray-sum-with-one-deletion](https://github.com/Ashish-develper1010/leetcode/tree/main/1186-maximum-subarray-sum-with-one-deletion/) | Medium |
@@ -137,6 +138,7 @@ All leetcode questions are available here
 | [0213-house-robber-ii](https://github.com/Ashish-develper1010/leetcode/tree/main/0213-house-robber-ii/) | Medium |
 | [0322-coin-change](https://github.com/Ashish-develper1010/leetcode/tree/main/0322-coin-change/) | Medium |
 | [0416-partition-equal-subset-sum](https://github.com/Ashish-develper1010/leetcode/tree/main/0416-partition-equal-subset-sum/) | Medium |
+| [0494-target-sum](https://github.com/Ashish-develper1010/leetcode/tree/main/0494-target-sum/) | Medium |
 | [0518-coin-change-ii](https://github.com/Ashish-develper1010/leetcode/tree/main/0518-coin-change-ii/) | Medium |
 | [0746-min-cost-climbing-stairs](https://github.com/Ashish-develper1010/leetcode/tree/main/0746-min-cost-climbing-stairs/) | Easy |
 | [0788-rotated-digits](https://github.com/Ashish-develper1010/leetcode/tree/main/0788-rotated-digits/) | Medium |
@@ -175,6 +177,7 @@ All leetcode questions are available here
 | ------- | ------- |
 | [0017-letter-combinations-of-a-phone-number](https://github.com/Ashish-develper1010/leetcode/tree/main/0017-letter-combinations-of-a-phone-number/) | Medium |
 | [0257-binary-tree-paths](https://github.com/Ashish-develper1010/leetcode/tree/main/0257-binary-tree-paths/) | Easy |
+| [0494-target-sum](https://github.com/Ashish-develper1010/leetcode/tree/main/0494-target-sum/) | Medium |
 | [1415-the-k-th-lexicographical-string-of-all-happy-strings-of-length-n](https://github.com/Ashish-develper1010/leetcode/tree/main/1415-the-k-th-lexicographical-string-of-all-happy-strings-of-length-n/) | Medium |
 | [1980-find-unique-binary-string](https://github.com/Ashish-develper1010/leetcode/tree/main/1980-find-unique-binary-string/) | Medium |
 ## Prefix Sum
