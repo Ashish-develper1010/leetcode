@@ -97,6 +97,7 @@ All leetcode questions are available here
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0017-letter-combinations-of-a-phone-number](https://github.com/Ashish-develper1010/leetcode/tree/main/0017-letter-combinations-of-a-phone-number/) | Medium |
+| [0072-edit-distance](https://github.com/Ashish-develper1010/leetcode/tree/main/0072-edit-distance/) | Medium |
 | [0257-binary-tree-paths](https://github.com/Ashish-develper1010/leetcode/tree/main/0257-binary-tree-paths/) | Easy |
 | [0297-serialize-and-deserialize-binary-tree](https://github.com/Ashish-develper1010/leetcode/tree/main/0297-serialize-and-deserialize-binary-tree/) | Hard |
 | [0657-robot-return-to-origin](https://github.com/Ashish-develper1010/leetcode/tree/main/0657-robot-return-to-origin/) | Easy |
@@ -137,6 +138,7 @@ All leetcode questions are available here
 | ------- | ------- |
 | [0062-unique-paths](https://github.com/Ashish-develper1010/leetcode/tree/main/0062-unique-paths/) | Medium |
 | [0063-unique-paths-ii](https://github.com/Ashish-develper1010/leetcode/tree/main/0063-unique-paths-ii/) | Medium |
+| [0072-edit-distance](https://github.com/Ashish-develper1010/leetcode/tree/main/0072-edit-distance/) | Medium |
 | [0124-binary-tree-maximum-path-sum](https://github.com/Ashish-develper1010/leetcode/tree/main/0124-binary-tree-maximum-path-sum/) | Hard |
 | [0198-house-robber](https://github.com/Ashish-develper1010/leetcode/tree/main/0198-house-robber/) | Medium |
 | [0213-house-robber-ii](https://github.com/Ashish-develper1010/leetcode/tree/main/0213-house-robber-ii/) | Medium |
