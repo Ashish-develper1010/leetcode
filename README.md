@@ -48,6 +48,7 @@ All leetcode questions are available here
 | [2946-matrix-similarity-after-cyclic-shifts](https://github.com/Ashish-develper1010/leetcode/tree/main/2946-matrix-similarity-after-cyclic-shifts/) | Easy |
 | [3043-find-the-length-of-the-longest-common-prefix](https://github.com/Ashish-develper1010/leetcode/tree/main/3043-find-the-length-of-the-longest-common-prefix/) | Medium |
 | [3093-longest-common-suffix-queries](https://github.com/Ashish-develper1010/leetcode/tree/main/3093-longest-common-suffix-queries/) | Hard |
+| [3161-block-placement-queries](https://github.com/Ashish-develper1010/leetcode/tree/main/3161-block-placement-queries/) | Hard |
 | [3212-count-submatrices-with-equal-frequency-of-x-and-y](https://github.com/Ashish-develper1010/leetcode/tree/main/3212-count-submatrices-with-equal-frequency-of-x-and-y/) | Medium |
 | [3296-minimum-number-of-seconds-to-make-mountain-height-zero](https://github.com/Ashish-develper1010/leetcode/tree/main/3296-minimum-number-of-seconds-to-make-mountain-height-zero/) | Medium |
 | [3300-minimum-element-after-replacement-with-digit-sum](https://github.com/Ashish-develper1010/leetcode/tree/main/3300-minimum-element-after-replacement-with-digit-sum/) | Easy |
@@ -232,6 +233,7 @@ All leetcode questions are available here
 | [0300-longest-increasing-subsequence](https://github.com/Ashish-develper1010/leetcode/tree/main/0300-longest-increasing-subsequence/) | Medium |
 | [1855-maximum-distance-between-a-pair-of-values](https://github.com/Ashish-develper1010/leetcode/tree/main/1855-maximum-distance-between-a-pair-of-values/) | Medium |
 | [2540-minimum-common-value](https://github.com/Ashish-develper1010/leetcode/tree/main/2540-minimum-common-value/) | Easy |
+| [3161-block-placement-queries](https://github.com/Ashish-develper1010/leetcode/tree/main/3161-block-placement-queries/) | Hard |
 | [3296-minimum-number-of-seconds-to-make-mountain-height-zero](https://github.com/Ashish-develper1010/leetcode/tree/main/3296-minimum-number-of-seconds-to-make-mountain-height-zero/) | Medium |
 | [3464-maximize-the-distance-between-points-on-a-square](https://github.com/Ashish-develper1010/leetcode/tree/main/3464-maximize-the-distance-between-points-on-a-square/) | Hard |
 | [3661-maximum-walls-destroyed-by-robots](https://github.com/Ashish-develper1010/leetcode/tree/main/3661-maximum-walls-destroyed-by-robots/) | Hard |
@@ -250,6 +252,7 @@ All leetcode questions are available here
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [1622-fancy-sequence](https://github.com/Ashish-develper1010/leetcode/tree/main/1622-fancy-sequence/) | Hard |
+| [3161-block-placement-queries](https://github.com/Ashish-develper1010/leetcode/tree/main/3161-block-placement-queries/) | Hard |
 ## Sorting
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -409,4 +412,8 @@ All leetcode questions are available here
 | ------- | ------- |
 | [3043-find-the-length-of-the-longest-common-prefix](https://github.com/Ashish-develper1010/leetcode/tree/main/3043-find-the-length-of-the-longest-common-prefix/) | Medium |
 | [3093-longest-common-suffix-queries](https://github.com/Ashish-develper1010/leetcode/tree/main/3093-longest-common-suffix-queries/) | Hard |
+## Binary Indexed Tree
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [3161-block-placement-queries](https://github.com/Ashish-develper1010/leetcode/tree/main/3161-block-placement-queries/) | Hard |
 <!---LeetCode Topics End-->
