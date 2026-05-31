@@ -4,27 +4,20 @@ class Solution {
         int count = 0;
 
         for(int i = 0; i < len; i++) {
-            for(int j = i+1; j <= len; j++) {
-                String str = s.substring(i , j);
-                if(isPalindrome(str)) count++;
+            for(int j = i; j < len; j++) {
+                if(isPalindrome(s, i, j)) count++;
             }
         }
 
         return count;
     }
 
-    public boolean isPalindrome(String str) {
-        int len = str.length();
-        if(len == 1) return true;
+    public boolean isPalindrome(String str, int i, int j) {
+        if( i > j) return true;
+        if(i == j) return true;
 
-        int start = 0, end = len - 1;
+        if(str.charAt(i) != str.charAt(j)) return false;
 
-        while(start < end) {
-            if(str.charAt(start) != str.charAt(end)) return false;
-            start++;
-            end--;
-        }
-
-        return true;
+        else return isPalindrome(str, i+1, j-1);
     }
 }
