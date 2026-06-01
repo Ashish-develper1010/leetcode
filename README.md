@@ -39,6 +39,7 @@ All leetcode questions are available here
 | [1914-cyclically-rotating-a-grid](https://github.com/Ashish-develper1010/leetcode/tree/main/1914-cyclically-rotating-a-grid/) | Medium |
 | [1980-find-unique-binary-string](https://github.com/Ashish-develper1010/leetcode/tree/main/1980-find-unique-binary-string/) | Medium |
 | [2033-minimum-operations-to-make-a-uni-value-grid](https://github.com/Ashish-develper1010/leetcode/tree/main/2033-minimum-operations-to-make-a-uni-value-grid/) | Medium |
+| [2144-minimum-cost-of-buying-candies-with-discount](https://github.com/Ashish-develper1010/leetcode/tree/main/2144-minimum-cost-of-buying-candies-with-discount/) | Easy |
 | [2515-shortest-distance-to-target-string-in-a-circular-array](https://github.com/Ashish-develper1010/leetcode/tree/main/2515-shortest-distance-to-target-string-in-a-circular-array/) | Easy |
 | [2540-minimum-common-value](https://github.com/Ashish-develper1010/leetcode/tree/main/2540-minimum-common-value/) | Easy |
 | [2573-find-the-string-with-lcp](https://github.com/Ashish-develper1010/leetcode/tree/main/2573-find-the-string-with-lcp/) | Hard |
@@ -69,6 +70,7 @@ All leetcode questions are available here
 | ------- | ------- |
 | [1536-minimum-swaps-to-arrange-a-binary-grid](https://github.com/Ashish-develper1010/leetcode/tree/main/1536-minimum-swaps-to-arrange-a-binary-grid/) | Medium |
 | [1727-largest-submatrix-with-rearrangements](https://github.com/Ashish-develper1010/leetcode/tree/main/1727-largest-submatrix-with-rearrangements/) | Medium |
+| [2144-minimum-cost-of-buying-candies-with-discount](https://github.com/Ashish-develper1010/leetcode/tree/main/2144-minimum-cost-of-buying-candies-with-discount/) | Easy |
 | [2573-find-the-string-with-lcp](https://github.com/Ashish-develper1010/leetcode/tree/main/2573-find-the-string-with-lcp/) | Hard |
 | [3296-minimum-number-of-seconds-to-make-mountain-height-zero](https://github.com/Ashish-develper1010/leetcode/tree/main/3296-minimum-number-of-seconds-to-make-mountain-height-zero/) | Medium |
 | [3474-lexicographically-smallest-generated-string](https://github.com/Ashish-develper1010/leetcode/tree/main/3474-lexicographically-smallest-generated-string/) | Hard |
@@ -262,6 +264,7 @@ All leetcode questions are available here
 | [1727-largest-submatrix-with-rearrangements](https://github.com/Ashish-develper1010/leetcode/tree/main/1727-largest-submatrix-with-rearrangements/) | Medium |
 | [1878-get-biggest-three-rhombus-sums-in-a-grid](https://github.com/Ashish-develper1010/leetcode/tree/main/1878-get-biggest-three-rhombus-sums-in-a-grid/) | Medium |
 | [2033-minimum-operations-to-make-a-uni-value-grid](https://github.com/Ashish-develper1010/leetcode/tree/main/2033-minimum-operations-to-make-a-uni-value-grid/) | Medium |
+| [2144-minimum-cost-of-buying-candies-with-discount](https://github.com/Ashish-develper1010/leetcode/tree/main/2144-minimum-cost-of-buying-candies-with-discount/) | Easy |
 | [2840-check-if-strings-can-be-made-equal-with-operations-ii](https://github.com/Ashish-develper1010/leetcode/tree/main/2840-check-if-strings-can-be-made-equal-with-operations-ii/) | Medium |
 | [3464-maximize-the-distance-between-points-on-a-square](https://github.com/Ashish-develper1010/leetcode/tree/main/3464-maximize-the-distance-between-points-on-a-square/) | Hard |
 | [3661-maximum-walls-destroyed-by-robots](https://github.com/Ashish-develper1010/leetcode/tree/main/3661-maximum-walls-destroyed-by-robots/) | Hard |
