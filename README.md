@@ -101,6 +101,7 @@ All leetcode questions are available here
 ## String
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0005-longest-palindromic-substring](https://github.com/Ashish-develper1010/leetcode/tree/main/0005-longest-palindromic-substring/) | Medium |
 | [0017-letter-combinations-of-a-phone-number](https://github.com/Ashish-develper1010/leetcode/tree/main/0017-letter-combinations-of-a-phone-number/) | Medium |
 | [0072-edit-distance](https://github.com/Ashish-develper1010/leetcode/tree/main/0072-edit-distance/) | Medium |
 | [0257-binary-tree-paths](https://github.com/Ashish-develper1010/leetcode/tree/main/0257-binary-tree-paths/) | Easy |
@@ -143,6 +144,7 @@ All leetcode questions are available here
 ## Dynamic Programming
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0005-longest-palindromic-substring](https://github.com/Ashish-develper1010/leetcode/tree/main/0005-longest-palindromic-substring/) | Medium |
 | [0062-unique-paths](https://github.com/Ashish-develper1010/leetcode/tree/main/0062-unique-paths/) | Medium |
 | [0063-unique-paths-ii](https://github.com/Ashish-develper1010/leetcode/tree/main/0063-unique-paths-ii/) | Medium |
 | [0072-edit-distance](https://github.com/Ashish-develper1010/leetcode/tree/main/0072-edit-distance/) | Medium |
@@ -271,6 +273,7 @@ All leetcode questions are available here
 ## Two Pointers
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0005-longest-palindromic-substring](https://github.com/Ashish-develper1010/leetcode/tree/main/0005-longest-palindromic-substring/) | Medium |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/Ashish-develper1010/leetcode/tree/main/0026-remove-duplicates-from-sorted-array/) | Easy |
 | [0061-rotate-list](https://github.com/Ashish-develper1010/leetcode/tree/main/0061-rotate-list/) | Medium |
 | [0647-palindromic-substrings](https://github.com/Ashish-develper1010/leetcode/tree/main/0647-palindromic-substrings/) | Medium |
