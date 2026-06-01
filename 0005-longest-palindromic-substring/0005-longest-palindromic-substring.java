@@ -1,42 +1,31 @@
 class Solution {
+
+    public boolean isPalindrome(String s, int i, int j) {
+        if(i == j) return true;
+
+        while( i < j) {
+            if(s.charAt(i) != s.charAt(j)) return false;
+            i++;
+            j--;
+        }
+        return true;
+    }
     public String longestPalindrome(String s) {
+        int maxLength = Integer.MIN_VALUE;
 
-        if(s.length() == 1) {
-            return s;
-        }
-        String LPS = "";
+        String ans = "";
 
-        for(int i = 1; i < s.length(); i++) {
-            int low = i;
-            int high = i;
-
-            while(s.charAt(low) == s.charAt(high)) {
-                low--;
-                high++;
-
-                if(low == -1 || high == s.length()) break;
+        for(int i = 0; i < s.length(); i++) {
+            for(int j = i; j < s.length(); j++) {
+                if(isPalindrome(s, i , j)) {
+                    if(maxLength < j - i + 1) {
+                        maxLength = j - i + 1;
+                        ans = s.substring(i , j + 1);
+                    }
+                }
             }
-
-            String palindrome = s.substring(low+1 , high);
-            if(palindrome.length() > LPS.length()) {
-                LPS = palindrome;
-            }
-
-
-            low = i-1;
-            high = i;
-
-            while(s.charAt(low) == s.charAt(high)) {
-                low--;
-                high++;
-
-                if(low == -1 || high == s.length()) break;
-            }
-
-            palindrome = s.substring(low+1 , high);
-            if(LPS.length() < palindrome.length()) LPS = palindrome;
         }
 
-        return LPS;
+        return ans;
     }
 }
