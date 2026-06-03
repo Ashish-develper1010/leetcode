@@ -108,6 +108,7 @@ All leetcode questions are available here
 | [0072-edit-distance](https://github.com/Ashish-develper1010/leetcode/tree/main/0072-edit-distance/) | Medium |
 | [0257-binary-tree-paths](https://github.com/Ashish-develper1010/leetcode/tree/main/0257-binary-tree-paths/) | Easy |
 | [0297-serialize-and-deserialize-binary-tree](https://github.com/Ashish-develper1010/leetcode/tree/main/0297-serialize-and-deserialize-binary-tree/) | Hard |
+| [0516-longest-palindromic-subsequence](https://github.com/Ashish-develper1010/leetcode/tree/main/0516-longest-palindromic-subsequence/) | Medium |
 | [0647-palindromic-substrings](https://github.com/Ashish-develper1010/leetcode/tree/main/0647-palindromic-substrings/) | Medium |
 | [0657-robot-return-to-origin](https://github.com/Ashish-develper1010/leetcode/tree/main/0657-robot-return-to-origin/) | Easy |
 | [0796-rotate-string](https://github.com/Ashish-develper1010/leetcode/tree/main/0796-rotate-string/) | Easy |
@@ -157,6 +158,7 @@ All leetcode questions are available here
 | [0322-coin-change](https://github.com/Ashish-develper1010/leetcode/tree/main/0322-coin-change/) | Medium |
 | [0416-partition-equal-subset-sum](https://github.com/Ashish-develper1010/leetcode/tree/main/0416-partition-equal-subset-sum/) | Medium |
 | [0494-target-sum](https://github.com/Ashish-develper1010/leetcode/tree/main/0494-target-sum/) | Medium |
+| [0516-longest-palindromic-subsequence](https://github.com/Ashish-develper1010/leetcode/tree/main/0516-longest-palindromic-subsequence/) | Medium |
 | [0518-coin-change-ii](https://github.com/Ashish-develper1010/leetcode/tree/main/0518-coin-change-ii/) | Medium |
 | [0647-palindromic-substrings](https://github.com/Ashish-develper1010/leetcode/tree/main/0647-palindromic-substrings/) | Medium |
 | [0746-min-cost-climbing-stairs](https://github.com/Ashish-develper1010/leetcode/tree/main/0746-min-cost-climbing-stairs/) | Easy |
