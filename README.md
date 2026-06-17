@@ -138,6 +138,7 @@ All leetcode questions are available here
 | [3120-count-the-number-of-special-characters-i](https://github.com/Ashish-develper1010/leetcode/tree/main/3120-count-the-number-of-special-characters-i/) | Easy |
 | [3121-count-the-number-of-special-characters-ii](https://github.com/Ashish-develper1010/leetcode/tree/main/3121-count-the-number-of-special-characters-ii/) | Medium |
 | [3474-lexicographically-smallest-generated-string](https://github.com/Ashish-develper1010/leetcode/tree/main/3474-lexicographically-smallest-generated-string/) | Hard |
+| [3614-process-string-with-special-operations-ii](https://github.com/Ashish-develper1010/leetcode/tree/main/3614-process-string-with-special-operations-ii/) | Hard |
 ## Recursion
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -152,6 +153,7 @@ All leetcode questions are available here
 | [2069-walking-robot-simulation-ii](https://github.com/Ashish-develper1010/leetcode/tree/main/2069-walking-robot-simulation-ii/) | Medium |
 | [2075-decode-the-slanted-ciphertext](https://github.com/Ashish-develper1010/leetcode/tree/main/2075-decode-the-slanted-ciphertext/) | Medium |
 | [2946-matrix-similarity-after-cyclic-shifts](https://github.com/Ashish-develper1010/leetcode/tree/main/2946-matrix-similarity-after-cyclic-shifts/) | Easy |
+| [3614-process-string-with-special-operations-ii](https://github.com/Ashish-develper1010/leetcode/tree/main/3614-process-string-with-special-operations-ii/) | Hard |
 | [3653-xor-after-range-multiplication-queries-i](https://github.com/Ashish-develper1010/leetcode/tree/main/3653-xor-after-range-multiplication-queries-i/) | Medium |
 ## Dynamic Programming
 | Problem Name | Difficulty |
