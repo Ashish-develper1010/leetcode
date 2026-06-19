@@ -33,6 +33,7 @@ All leetcode questions are available here
 | [1559-detect-cycles-in-2d-grid](https://github.com/Ashish-develper1010/leetcode/tree/main/1559-detect-cycles-in-2d-grid/) | Medium |
 | [1594-maximum-non-negative-product-in-a-matrix](https://github.com/Ashish-develper1010/leetcode/tree/main/1594-maximum-non-negative-product-in-a-matrix/) | Medium |
 | [1727-largest-submatrix-with-rearrangements](https://github.com/Ashish-develper1010/leetcode/tree/main/1727-largest-submatrix-with-rearrangements/) | Medium |
+| [1732-find-the-highest-altitude](https://github.com/Ashish-develper1010/leetcode/tree/main/1732-find-the-highest-altitude/) | Easy |
 | [1752-check-if-array-is-sorted-and-rotated](https://github.com/Ashish-develper1010/leetcode/tree/main/1752-check-if-array-is-sorted-and-rotated/) | Easy |
 | [1848-minimum-distance-to-the-target-element](https://github.com/Ashish-develper1010/leetcode/tree/main/1848-minimum-distance-to-the-target-element/) | Easy |
 | [1855-maximum-distance-between-a-pair-of-values](https://github.com/Ashish-develper1010/leetcode/tree/main/1855-maximum-distance-between-a-pair-of-values/) | Medium |
@@ -223,6 +224,7 @@ All leetcode questions are available here
 ## Prefix Sum
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [1732-find-the-highest-altitude](https://github.com/Ashish-develper1010/leetcode/tree/main/1732-find-the-highest-altitude/) | Easy |
 | [1878-get-biggest-three-rhombus-sums-in-a-grid](https://github.com/Ashish-develper1010/leetcode/tree/main/1878-get-biggest-three-rhombus-sums-in-a-grid/) | Medium |
 | [2906-construct-product-matrix](https://github.com/Ashish-develper1010/leetcode/tree/main/2906-construct-product-matrix/) | Medium |
 | [3129-find-all-possible-stable-binary-arrays-i](https://github.com/Ashish-develper1010/leetcode/tree/main/3129-find-all-possible-stable-binary-arrays-i/) | Medium |
