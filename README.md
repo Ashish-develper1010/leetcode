@@ -35,6 +35,7 @@ All leetcode questions are available here
 | [1727-largest-submatrix-with-rearrangements](https://github.com/Ashish-develper1010/leetcode/tree/main/1727-largest-submatrix-with-rearrangements/) | Medium |
 | [1732-find-the-highest-altitude](https://github.com/Ashish-develper1010/leetcode/tree/main/1732-find-the-highest-altitude/) | Easy |
 | [1752-check-if-array-is-sorted-and-rotated](https://github.com/Ashish-develper1010/leetcode/tree/main/1752-check-if-array-is-sorted-and-rotated/) | Easy |
+| [1833-maximum-ice-cream-bars](https://github.com/Ashish-develper1010/leetcode/tree/main/1833-maximum-ice-cream-bars/) | Medium |
 | [1848-minimum-distance-to-the-target-element](https://github.com/Ashish-develper1010/leetcode/tree/main/1848-minimum-distance-to-the-target-element/) | Easy |
 | [1855-maximum-distance-between-a-pair-of-values](https://github.com/Ashish-develper1010/leetcode/tree/main/1855-maximum-distance-between-a-pair-of-values/) | Medium |
 | [1861-rotating-the-box](https://github.com/Ashish-develper1010/leetcode/tree/main/1861-rotating-the-box/) | Medium |
@@ -77,6 +78,7 @@ All leetcode questions are available here
 | [0045-jump-game-ii](https://github.com/Ashish-develper1010/leetcode/tree/main/0045-jump-game-ii/) | Medium |
 | [1536-minimum-swaps-to-arrange-a-binary-grid](https://github.com/Ashish-develper1010/leetcode/tree/main/1536-minimum-swaps-to-arrange-a-binary-grid/) | Medium |
 | [1727-largest-submatrix-with-rearrangements](https://github.com/Ashish-develper1010/leetcode/tree/main/1727-largest-submatrix-with-rearrangements/) | Medium |
+| [1833-maximum-ice-cream-bars](https://github.com/Ashish-develper1010/leetcode/tree/main/1833-maximum-ice-cream-bars/) | Medium |
 | [2144-minimum-cost-of-buying-candies-with-discount](https://github.com/Ashish-develper1010/leetcode/tree/main/2144-minimum-cost-of-buying-candies-with-discount/) | Easy |
 | [2573-find-the-string-with-lcp](https://github.com/Ashish-develper1010/leetcode/tree/main/2573-find-the-string-with-lcp/) | Hard |
 | [3296-minimum-number-of-seconds-to-make-mountain-height-zero](https://github.com/Ashish-develper1010/leetcode/tree/main/3296-minimum-number-of-seconds-to-make-mountain-height-zero/) | Medium |
@@ -292,6 +294,7 @@ All leetcode questions are available here
 | ------- | ------- |
 | [1340-jump-game-v](https://github.com/Ashish-develper1010/leetcode/tree/main/1340-jump-game-v/) | Hard |
 | [1727-largest-submatrix-with-rearrangements](https://github.com/Ashish-develper1010/leetcode/tree/main/1727-largest-submatrix-with-rearrangements/) | Medium |
+| [1833-maximum-ice-cream-bars](https://github.com/Ashish-develper1010/leetcode/tree/main/1833-maximum-ice-cream-bars/) | Medium |
 | [1878-get-biggest-three-rhombus-sums-in-a-grid](https://github.com/Ashish-develper1010/leetcode/tree/main/1878-get-biggest-three-rhombus-sums-in-a-grid/) | Medium |
 | [2033-minimum-operations-to-make-a-uni-value-grid](https://github.com/Ashish-develper1010/leetcode/tree/main/2033-minimum-operations-to-make-a-uni-value-grid/) | Medium |
 | [2144-minimum-cost-of-buying-candies-with-discount](https://github.com/Ashish-develper1010/leetcode/tree/main/2144-minimum-cost-of-buying-candies-with-discount/) | Easy |
@@ -461,4 +464,8 @@ All leetcode questions are available here
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [3161-block-placement-queries](https://github.com/Ashish-develper1010/leetcode/tree/main/3161-block-placement-queries/) | Hard |
+## Counting Sort
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [1833-maximum-ice-cream-bars](https://github.com/Ashish-develper1010/leetcode/tree/main/1833-maximum-ice-cream-bars/) | Medium |
 <!---LeetCode Topics End-->
