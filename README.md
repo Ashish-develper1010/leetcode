@@ -32,6 +32,7 @@ All leetcode questions are available here
 | [1340-jump-game-v](https://github.com/Ashish-develper1010/leetcode/tree/main/1340-jump-game-v/) | Hard |
 | [1345-jump-game-iv](https://github.com/Ashish-develper1010/leetcode/tree/main/1345-jump-game-iv/) | Hard |
 | [1391-check-if-there-is-a-valid-path-in-a-grid](https://github.com/Ashish-develper1010/leetcode/tree/main/1391-check-if-there-is-a-valid-path-in-a-grid/) | Medium |
+| [1497-check-if-array-pairs-are-divisible-by-k](https://github.com/Ashish-develper1010/leetcode/tree/main/1497-check-if-array-pairs-are-divisible-by-k/) | Medium |
 | [1536-minimum-swaps-to-arrange-a-binary-grid](https://github.com/Ashish-develper1010/leetcode/tree/main/1536-minimum-swaps-to-arrange-a-binary-grid/) | Medium |
 | [1559-detect-cycles-in-2d-grid](https://github.com/Ashish-develper1010/leetcode/tree/main/1559-detect-cycles-in-2d-grid/) | Medium |
 | [1594-maximum-non-negative-product-in-a-matrix](https://github.com/Ashish-develper1010/leetcode/tree/main/1594-maximum-non-negative-product-in-a-matrix/) | Medium |
@@ -211,6 +212,7 @@ All leetcode questions are available here
 | [0229-majority-element-ii](https://github.com/Ashish-develper1010/leetcode/tree/main/0229-majority-element-ii/) | Medium |
 | [0560-subarray-sum-equals-k](https://github.com/Ashish-develper1010/leetcode/tree/main/0560-subarray-sum-equals-k/) | Medium |
 | [1345-jump-game-iv](https://github.com/Ashish-develper1010/leetcode/tree/main/1345-jump-game-iv/) | Hard |
+| [1497-check-if-array-pairs-are-divisible-by-k](https://github.com/Ashish-develper1010/leetcode/tree/main/1497-check-if-array-pairs-are-divisible-by-k/) | Medium |
 | [1980-find-unique-binary-string](https://github.com/Ashish-develper1010/leetcode/tree/main/1980-find-unique-binary-string/) | Medium |
 | [2404-most-frequent-even-element](https://github.com/Ashish-develper1010/leetcode/tree/main/2404-most-frequent-even-element/) | Easy |
 | [2540-minimum-common-value](https://github.com/Ashish-develper1010/leetcode/tree/main/2540-minimum-common-value/) | Easy |
@@ -478,6 +480,7 @@ All leetcode questions are available here
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0229-majority-element-ii](https://github.com/Ashish-develper1010/leetcode/tree/main/0229-majority-element-ii/) | Medium |
+| [1497-check-if-array-pairs-are-divisible-by-k](https://github.com/Ashish-develper1010/leetcode/tree/main/1497-check-if-array-pairs-are-divisible-by-k/) | Medium |
 | [1833-maximum-ice-cream-bars](https://github.com/Ashish-develper1010/leetcode/tree/main/1833-maximum-ice-cream-bars/) | Medium |
 | [2404-most-frequent-even-element](https://github.com/Ashish-develper1010/leetcode/tree/main/2404-most-frequent-even-element/) | Easy |
 <!---LeetCode Topics End-->
