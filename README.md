@@ -18,6 +18,7 @@ All leetcode questions are available here
 | [0198-house-robber](https://github.com/Ashish-develper1010/leetcode/tree/main/0198-house-robber/) | Medium |
 | [0200-number-of-islands](https://github.com/Ashish-develper1010/leetcode/tree/main/0200-number-of-islands/) | Medium |
 | [0213-house-robber-ii](https://github.com/Ashish-develper1010/leetcode/tree/main/0213-house-robber-ii/) | Medium |
+| [0229-majority-element-ii](https://github.com/Ashish-develper1010/leetcode/tree/main/0229-majority-element-ii/) | Medium |
 | [0300-longest-increasing-subsequence](https://github.com/Ashish-develper1010/leetcode/tree/main/0300-longest-increasing-subsequence/) | Medium |
 | [0322-coin-change](https://github.com/Ashish-develper1010/leetcode/tree/main/0322-coin-change/) | Medium |
 | [0416-partition-equal-subset-sum](https://github.com/Ashish-develper1010/leetcode/tree/main/0416-partition-equal-subset-sum/) | Medium |
@@ -206,6 +207,7 @@ All leetcode questions are available here
 | ------- | ------- |
 | [0001-two-sum](https://github.com/Ashish-develper1010/leetcode/tree/main/0001-two-sum/) | Easy |
 | [0017-letter-combinations-of-a-phone-number](https://github.com/Ashish-develper1010/leetcode/tree/main/0017-letter-combinations-of-a-phone-number/) | Medium |
+| [0229-majority-element-ii](https://github.com/Ashish-develper1010/leetcode/tree/main/0229-majority-element-ii/) | Medium |
 | [0560-subarray-sum-equals-k](https://github.com/Ashish-develper1010/leetcode/tree/main/0560-subarray-sum-equals-k/) | Medium |
 | [1345-jump-game-iv](https://github.com/Ashish-develper1010/leetcode/tree/main/1345-jump-game-iv/) | Hard |
 | [1980-find-unique-binary-string](https://github.com/Ashish-develper1010/leetcode/tree/main/1980-find-unique-binary-string/) | Medium |
@@ -297,6 +299,7 @@ All leetcode questions are available here
 ## Sorting
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0229-majority-element-ii](https://github.com/Ashish-develper1010/leetcode/tree/main/0229-majority-element-ii/) | Medium |
 | [1340-jump-game-v](https://github.com/Ashish-develper1010/leetcode/tree/main/1340-jump-game-v/) | Hard |
 | [1727-largest-submatrix-with-rearrangements](https://github.com/Ashish-develper1010/leetcode/tree/main/1727-largest-submatrix-with-rearrangements/) | Medium |
 | [1833-maximum-ice-cream-bars](https://github.com/Ashish-develper1010/leetcode/tree/main/1833-maximum-ice-cream-bars/) | Medium |
@@ -472,5 +475,6 @@ All leetcode questions are available here
 ## Counting Sort
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0229-majority-element-ii](https://github.com/Ashish-develper1010/leetcode/tree/main/0229-majority-element-ii/) | Medium |
 | [1833-maximum-ice-cream-bars](https://github.com/Ashish-develper1010/leetcode/tree/main/1833-maximum-ice-cream-bars/) | Medium |
 <!---LeetCode Topics End-->
