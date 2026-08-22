@@ -264,6 +264,7 @@ All leetcode questions are available here
 | [3300-minimum-element-after-replacement-with-digit-sum](https://github.com/Ashish-develper1010/leetcode/tree/main/3300-minimum-element-after-replacement-with-digit-sum/) | Easy |
 | [3464-maximize-the-distance-between-points-on-a-square](https://github.com/Ashish-develper1010/leetcode/tree/main/3464-maximize-the-distance-between-points-on-a-square/) | Hard |
 | [3558-number-of-ways-to-assign-edge-weights-i](https://github.com/Ashish-develper1010/leetcode/tree/main/3558-number-of-ways-to-assign-edge-weights-i/) | Medium |
+| [3622-check-divisibility-by-digit-sum-and-product](https://github.com/Ashish-develper1010/leetcode/tree/main/3622-check-divisibility-by-digit-sum-and-product/) | Easy |
 | [3629-minimum-jumps-to-reach-end-via-prime-teleportation](https://github.com/Ashish-develper1010/leetcode/tree/main/3629-minimum-jumps-to-reach-end-via-prime-teleportation/) | Medium |
 | [3753-total-waviness-of-numbers-in-range-ii](https://github.com/Ashish-develper1010/leetcode/tree/main/3753-total-waviness-of-numbers-in-range-ii/) | Hard |
 | [3761-minimum-absolute-distance-between-mirror-pairs](https://github.com/Ashish-develper1010/leetcode/tree/main/3761-minimum-absolute-distance-between-mirror-pairs/) | Medium |
