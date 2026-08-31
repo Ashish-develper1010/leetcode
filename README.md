@@ -454,6 +454,7 @@ All leetcode questions are available here
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0061-rotate-list](https://github.com/Ashish-develper1010/leetcode/tree/main/0061-rotate-list/) | Medium |
+| [2058-find-the-minimum-and-maximum-number-of-nodes-between-critical-points](https://github.com/Ashish-develper1010/leetcode/tree/main/2058-find-the-minimum-and-maximum-number-of-nodes-between-critical-points/) | Medium |
 | [2130-maximum-twin-sum-of-a-linked-list](https://github.com/Ashish-develper1010/leetcode/tree/main/2130-maximum-twin-sum-of-a-linked-list/) | Medium |
 ## Graph Theory
 | Problem Name | Difficulty |
