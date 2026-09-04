@@ -77,6 +77,7 @@ All leetcode questions are available here
 | [3718-smallest-missing-multiple-of-k](https://github.com/Ashish-develper1010/leetcode/tree/main/3718-smallest-missing-multiple-of-k/) | Easy |
 | [3740-minimum-distance-between-three-equal-elements-i](https://github.com/Ashish-develper1010/leetcode/tree/main/3740-minimum-distance-between-three-equal-elements-i/) | Easy |
 | [3761-minimum-absolute-distance-between-mirror-pairs](https://github.com/Ashish-develper1010/leetcode/tree/main/3761-minimum-absolute-distance-between-mirror-pairs/) | Medium |
+| [3903-smallest-stable-index-i](https://github.com/Ashish-develper1010/leetcode/tree/main/3903-smallest-stable-index-i/) | Easy |
 ## Greedy
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -246,6 +247,7 @@ All leetcode questions are available here
 | [3212-count-submatrices-with-equal-frequency-of-x-and-y](https://github.com/Ashish-develper1010/leetcode/tree/main/3212-count-submatrices-with-equal-frequency-of-x-and-y/) | Medium |
 | [3546-equal-sum-grid-partition-i](https://github.com/Ashish-develper1010/leetcode/tree/main/3546-equal-sum-grid-partition-i/) | Medium |
 | [3548-equal-sum-grid-partition-ii](https://github.com/Ashish-develper1010/leetcode/tree/main/3548-equal-sum-grid-partition-ii/) | Hard |
+| [3903-smallest-stable-index-i](https://github.com/Ashish-develper1010/leetcode/tree/main/3903-smallest-stable-index-i/) | Easy |
 ## Bit Manipulation
 | Problem Name | Difficulty |
 | ------- | ------- |
