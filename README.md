@@ -277,6 +277,7 @@ All leetcode questions are available here
 | [3753-total-waviness-of-numbers-in-range-ii](https://github.com/Ashish-develper1010/leetcode/tree/main/3753-total-waviness-of-numbers-in-range-ii/) | Hard |
 | [3761-minimum-absolute-distance-between-mirror-pairs](https://github.com/Ashish-develper1010/leetcode/tree/main/3761-minimum-absolute-distance-between-mirror-pairs/) | Medium |
 | [3783-mirror-distance-of-an-integer](https://github.com/Ashish-develper1010/leetcode/tree/main/3783-mirror-distance-of-an-integer/) | Easy |
+| [3870-count-commas-in-range](https://github.com/Ashish-develper1010/leetcode/tree/main/3870-count-commas-in-range/) | Easy |
 ## Binary Search
 | Problem Name | Difficulty |
 | ------- | ------- |
