@@ -26,6 +26,7 @@ All leetcode questions are available here
 | [0518-coin-change-ii](https://github.com/Ashish-develper1010/leetcode/tree/main/0518-coin-change-ii/) | Medium |
 | [0560-subarray-sum-equals-k](https://github.com/Ashish-develper1010/leetcode/tree/main/0560-subarray-sum-equals-k/) | Medium |
 | [0746-min-cost-climbing-stairs](https://github.com/Ashish-develper1010/leetcode/tree/main/0746-min-cost-climbing-stairs/) | Easy |
+| [0835-image-overlap](https://github.com/Ashish-develper1010/leetcode/tree/main/0835-image-overlap/) | Medium |
 | [1186-maximum-subarray-sum-with-one-deletion](https://github.com/Ashish-develper1010/leetcode/tree/main/1186-maximum-subarray-sum-with-one-deletion/) | Medium |
 | [1277-count-square-submatrices-with-all-ones](https://github.com/Ashish-develper1010/leetcode/tree/main/1277-count-square-submatrices-with-all-ones/) | Medium |
 | [1306-jump-game-iii](https://github.com/Ashish-develper1010/leetcode/tree/main/1306-jump-game-iii/) | Medium |
@@ -99,6 +100,7 @@ All leetcode questions are available here
 | [0048-rotate-image](https://github.com/Ashish-develper1010/leetcode/tree/main/0048-rotate-image/) | Medium |
 | [0063-unique-paths-ii](https://github.com/Ashish-develper1010/leetcode/tree/main/0063-unique-paths-ii/) | Medium |
 | [0200-number-of-islands](https://github.com/Ashish-develper1010/leetcode/tree/main/0200-number-of-islands/) | Medium |
+| [0835-image-overlap](https://github.com/Ashish-develper1010/leetcode/tree/main/0835-image-overlap/) | Medium |
 | [1277-count-square-submatrices-with-all-ones](https://github.com/Ashish-develper1010/leetcode/tree/main/1277-count-square-submatrices-with-all-ones/) | Medium |
 | [1391-check-if-there-is-a-valid-path-in-a-grid](https://github.com/Ashish-develper1010/leetcode/tree/main/1391-check-if-there-is-a-valid-path-in-a-grid/) | Medium |
 | [1536-minimum-swaps-to-arrange-a-binary-grid](https://github.com/Ashish-develper1010/leetcode/tree/main/1536-minimum-swaps-to-arrange-a-binary-grid/) | Medium |
