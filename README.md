@@ -136,6 +136,7 @@ All leetcode questions are available here
 | [0796-rotate-string](https://github.com/Ashish-develper1010/leetcode/tree/main/0796-rotate-string/) | Easy |
 | [0940-distinct-subsequences-ii](https://github.com/Ashish-develper1010/leetcode/tree/main/0940-distinct-subsequences-ii/) | Hard |
 | [1143-longest-common-subsequence](https://github.com/Ashish-develper1010/leetcode/tree/main/1143-longest-common-subsequence/) | Medium |
+| [1190-reverse-substrings-between-each-pair-of-parentheses](https://github.com/Ashish-develper1010/leetcode/tree/main/1190-reverse-substrings-between-each-pair-of-parentheses/) | Medium |
 | [1320-minimum-distance-to-type-a-word-using-two-fingers](https://github.com/Ashish-develper1010/leetcode/tree/main/1320-minimum-distance-to-type-a-word-using-two-fingers/) | Hard |
 | [1415-the-k-th-lexicographical-string-of-all-happy-strings-of-length-n](https://github.com/Ashish-develper1010/leetcode/tree/main/1415-the-k-th-lexicographical-string-of-all-happy-strings-of-length-n/) | Medium |
 | [1545-find-kth-bit-in-nth-binary-string](https://github.com/Ashish-develper1010/leetcode/tree/main/1545-find-kth-bit-in-nth-binary-string/) | Medium |
@@ -431,6 +432,7 @@ All leetcode questions are available here
 | ------- | ------- |
 | [0032-longest-valid-parentheses](https://github.com/Ashish-develper1010/leetcode/tree/main/0032-longest-valid-parentheses/) | Hard |
 | [0094-binary-tree-inorder-traversal](https://github.com/Ashish-develper1010/leetcode/tree/main/0094-binary-tree-inorder-traversal/) | Easy |
+| [1190-reverse-substrings-between-each-pair-of-parentheses](https://github.com/Ashish-develper1010/leetcode/tree/main/1190-reverse-substrings-between-each-pair-of-parentheses/) | Medium |
 | [2130-maximum-twin-sum-of-a-linked-list](https://github.com/Ashish-develper1010/leetcode/tree/main/2130-maximum-twin-sum-of-a-linked-list/) | Medium |
 ## Tree
 | Problem Name | Difficulty |
@@ -506,4 +508,8 @@ All leetcode questions are available here
 | [1497-check-if-array-pairs-are-divisible-by-k](https://github.com/Ashish-develper1010/leetcode/tree/main/1497-check-if-array-pairs-are-divisible-by-k/) | Medium |
 | [1833-maximum-ice-cream-bars](https://github.com/Ashish-develper1010/leetcode/tree/main/1833-maximum-ice-cream-bars/) | Medium |
 | [2404-most-frequent-even-element](https://github.com/Ashish-develper1010/leetcode/tree/main/2404-most-frequent-even-element/) | Easy |
+## Bracket Sequences
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [1190-reverse-substrings-between-each-pair-of-parentheses](https://github.com/Ashish-develper1010/leetcode/tree/main/1190-reverse-substrings-between-each-pair-of-parentheses/) | Medium |
 <!---LeetCode Topics End-->
