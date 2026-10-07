@@ -132,6 +132,7 @@ All leetcode questions are available here
 | [0072-edit-distance](https://github.com/Ashish-develper1010/leetcode/tree/main/0072-edit-distance/) | Medium |
 | [0257-binary-tree-paths](https://github.com/Ashish-develper1010/leetcode/tree/main/0257-binary-tree-paths/) | Easy |
 | [0297-serialize-and-deserialize-binary-tree](https://github.com/Ashish-develper1010/leetcode/tree/main/0297-serialize-and-deserialize-binary-tree/) | Hard |
+| [0301-remove-invalid-parentheses](https://github.com/Ashish-develper1010/leetcode/tree/main/0301-remove-invalid-parentheses/) | Hard |
 | [0516-longest-palindromic-subsequence](https://github.com/Ashish-develper1010/leetcode/tree/main/0516-longest-palindromic-subsequence/) | Medium |
 | [0647-palindromic-substrings](https://github.com/Ashish-develper1010/leetcode/tree/main/0647-palindromic-substrings/) | Medium |
 | [0657-robot-return-to-origin](https://github.com/Ashish-develper1010/leetcode/tree/main/0657-robot-return-to-origin/) | Easy |
@@ -247,6 +248,7 @@ All leetcode questions are available here
 | ------- | ------- |
 | [0017-letter-combinations-of-a-phone-number](https://github.com/Ashish-develper1010/leetcode/tree/main/0017-letter-combinations-of-a-phone-number/) | Medium |
 | [0257-binary-tree-paths](https://github.com/Ashish-develper1010/leetcode/tree/main/0257-binary-tree-paths/) | Easy |
+| [0301-remove-invalid-parentheses](https://github.com/Ashish-develper1010/leetcode/tree/main/0301-remove-invalid-parentheses/) | Hard |
 | [0494-target-sum](https://github.com/Ashish-develper1010/leetcode/tree/main/0494-target-sum/) | Medium |
 | [1415-the-k-th-lexicographical-string-of-all-happy-strings-of-length-n](https://github.com/Ashish-develper1010/leetcode/tree/main/1415-the-k-th-lexicographical-string-of-all-happy-strings-of-length-n/) | Medium |
 | [1980-find-unique-binary-string](https://github.com/Ashish-develper1010/leetcode/tree/main/1980-find-unique-binary-string/) | Medium |
@@ -419,6 +421,7 @@ All leetcode questions are available here
 | [0207-course-schedule](https://github.com/Ashish-develper1010/leetcode/tree/main/0207-course-schedule/) | Medium |
 | [0226-invert-binary-tree](https://github.com/Ashish-develper1010/leetcode/tree/main/0226-invert-binary-tree/) | Easy |
 | [0297-serialize-and-deserialize-binary-tree](https://github.com/Ashish-develper1010/leetcode/tree/main/0297-serialize-and-deserialize-binary-tree/) | Hard |
+| [0301-remove-invalid-parentheses](https://github.com/Ashish-develper1010/leetcode/tree/main/0301-remove-invalid-parentheses/) | Hard |
 | [0322-coin-change](https://github.com/Ashish-develper1010/leetcode/tree/main/0322-coin-change/) | Medium |
 | [0547-number-of-provinces](https://github.com/Ashish-develper1010/leetcode/tree/main/0547-number-of-provinces/) | Medium |
 | [0785-is-graph-bipartite](https://github.com/Ashish-develper1010/leetcode/tree/main/0785-is-graph-bipartite/) | Medium |
