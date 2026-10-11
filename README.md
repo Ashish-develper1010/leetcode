@@ -56,6 +56,7 @@ All leetcode questions are available here
 | [2573-find-the-string-with-lcp](https://github.com/Ashish-develper1010/leetcode/tree/main/2573-find-the-string-with-lcp/) | Hard |
 | [2657-find-the-prefix-common-array-of-two-arrays](https://github.com/Ashish-develper1010/leetcode/tree/main/2657-find-the-prefix-common-array-of-two-arrays/) | Medium |
 | [2770-maximum-number-of-jumps-to-reach-the-last-index](https://github.com/Ashish-develper1010/leetcode/tree/main/2770-maximum-number-of-jumps-to-reach-the-last-index/) | Medium |
+| [2778-sum-of-squares-of-special-elements](https://github.com/Ashish-develper1010/leetcode/tree/main/2778-sum-of-squares-of-special-elements/) | Easy |
 | [2906-construct-product-matrix](https://github.com/Ashish-develper1010/leetcode/tree/main/2906-construct-product-matrix/) | Medium |
 | [2946-matrix-similarity-after-cyclic-shifts](https://github.com/Ashish-develper1010/leetcode/tree/main/2946-matrix-similarity-after-cyclic-shifts/) | Easy |
 | [3043-find-the-length-of-the-longest-common-prefix](https://github.com/Ashish-develper1010/leetcode/tree/main/3043-find-the-length-of-the-longest-common-prefix/) | Medium |
@@ -364,6 +365,7 @@ All leetcode questions are available here
 ## Enumeration
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [2778-sum-of-squares-of-special-elements](https://github.com/Ashish-develper1010/leetcode/tree/main/2778-sum-of-squares-of-special-elements/) | Easy |
 | [3546-equal-sum-grid-partition-i](https://github.com/Ashish-develper1010/leetcode/tree/main/3546-equal-sum-grid-partition-i/) | Medium |
 | [3548-equal-sum-grid-partition-ii](https://github.com/Ashish-develper1010/leetcode/tree/main/3548-equal-sum-grid-partition-ii/) | Hard |
 ## Union-Find
