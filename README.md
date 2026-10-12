@@ -57,6 +57,7 @@ All leetcode questions are available here
 | [2657-find-the-prefix-common-array-of-two-arrays](https://github.com/Ashish-develper1010/leetcode/tree/main/2657-find-the-prefix-common-array-of-two-arrays/) | Medium |
 | [2770-maximum-number-of-jumps-to-reach-the-last-index](https://github.com/Ashish-develper1010/leetcode/tree/main/2770-maximum-number-of-jumps-to-reach-the-last-index/) | Medium |
 | [2778-sum-of-squares-of-special-elements](https://github.com/Ashish-develper1010/leetcode/tree/main/2778-sum-of-squares-of-special-elements/) | Easy |
+| [2897-apply-operations-on-array-to-maximize-sum-of-squares](https://github.com/Ashish-develper1010/leetcode/tree/main/2897-apply-operations-on-array-to-maximize-sum-of-squares/) | Hard |
 | [2906-construct-product-matrix](https://github.com/Ashish-develper1010/leetcode/tree/main/2906-construct-product-matrix/) | Medium |
 | [2946-matrix-similarity-after-cyclic-shifts](https://github.com/Ashish-develper1010/leetcode/tree/main/2946-matrix-similarity-after-cyclic-shifts/) | Easy |
 | [3043-find-the-length-of-the-longest-common-prefix](https://github.com/Ashish-develper1010/leetcode/tree/main/3043-find-the-length-of-the-longest-common-prefix/) | Medium |
@@ -97,6 +98,7 @@ All leetcode questions are available here
 | [2144-minimum-cost-of-buying-candies-with-discount](https://github.com/Ashish-develper1010/leetcode/tree/main/2144-minimum-cost-of-buying-candies-with-discount/) | Easy |
 | [2333-minimum-sum-of-squared-difference](https://github.com/Ashish-develper1010/leetcode/tree/main/2333-minimum-sum-of-squared-difference/) | Medium |
 | [2573-find-the-string-with-lcp](https://github.com/Ashish-develper1010/leetcode/tree/main/2573-find-the-string-with-lcp/) | Hard |
+| [2897-apply-operations-on-array-to-maximize-sum-of-squares](https://github.com/Ashish-develper1010/leetcode/tree/main/2897-apply-operations-on-array-to-maximize-sum-of-squares/) | Hard |
 | [3296-minimum-number-of-seconds-to-make-mountain-height-zero](https://github.com/Ashish-develper1010/leetcode/tree/main/3296-minimum-number-of-seconds-to-make-mountain-height-zero/) | Medium |
 | [3474-lexicographically-smallest-generated-string](https://github.com/Ashish-develper1010/leetcode/tree/main/3474-lexicographically-smallest-generated-string/) | Hard |
 | [3633-earliest-finish-time-for-land-and-water-rides-i](https://github.com/Ashish-develper1010/leetcode/tree/main/3633-earliest-finish-time-for-land-and-water-rides-i/) | Easy |
@@ -241,6 +243,7 @@ All leetcode questions are available here
 | [2540-minimum-common-value](https://github.com/Ashish-develper1010/leetcode/tree/main/2540-minimum-common-value/) | Easy |
 | [2657-find-the-prefix-common-array-of-two-arrays](https://github.com/Ashish-develper1010/leetcode/tree/main/2657-find-the-prefix-common-array-of-two-arrays/) | Medium |
 | [2840-check-if-strings-can-be-made-equal-with-operations-ii](https://github.com/Ashish-develper1010/leetcode/tree/main/2840-check-if-strings-can-be-made-equal-with-operations-ii/) | Medium |
+| [2897-apply-operations-on-array-to-maximize-sum-of-squares](https://github.com/Ashish-develper1010/leetcode/tree/main/2897-apply-operations-on-array-to-maximize-sum-of-squares/) | Hard |
 | [3043-find-the-length-of-the-longest-common-prefix](https://github.com/Ashish-develper1010/leetcode/tree/main/3043-find-the-length-of-the-longest-common-prefix/) | Medium |
 | [3120-count-the-number-of-special-characters-i](https://github.com/Ashish-develper1010/leetcode/tree/main/3120-count-the-number-of-special-characters-i/) | Easy |
 | [3121-count-the-number-of-special-characters-ii](https://github.com/Ashish-develper1010/leetcode/tree/main/3121-count-the-number-of-special-characters-ii/) | Medium |
@@ -276,6 +279,7 @@ All leetcode questions are available here
 | ------- | ------- |
 | [1009-complement-of-base-10-integer](https://github.com/Ashish-develper1010/leetcode/tree/main/1009-complement-of-base-10-integer/) | Easy |
 | [2657-find-the-prefix-common-array-of-two-arrays](https://github.com/Ashish-develper1010/leetcode/tree/main/2657-find-the-prefix-common-array-of-two-arrays/) | Medium |
+| [2897-apply-operations-on-array-to-maximize-sum-of-squares](https://github.com/Ashish-develper1010/leetcode/tree/main/2897-apply-operations-on-array-to-maximize-sum-of-squares/) | Hard |
 ## Math
 | Problem Name | Difficulty |
 | ------- | ------- |
