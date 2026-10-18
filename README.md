@@ -36,6 +36,7 @@ All leetcode questions are available here
 | [1497-check-if-array-pairs-are-divisible-by-k](https://github.com/Ashish-develper1010/leetcode/tree/main/1497-check-if-array-pairs-are-divisible-by-k/) | Medium |
 | [1536-minimum-swaps-to-arrange-a-binary-grid](https://github.com/Ashish-develper1010/leetcode/tree/main/1536-minimum-swaps-to-arrange-a-binary-grid/) | Medium |
 | [1559-detect-cycles-in-2d-grid](https://github.com/Ashish-develper1010/leetcode/tree/main/1559-detect-cycles-in-2d-grid/) | Medium |
+| [1569-number-of-ways-to-reorder-array-to-get-same-bst](https://github.com/Ashish-develper1010/leetcode/tree/main/1569-number-of-ways-to-reorder-array-to-get-same-bst/) | Hard |
 | [1594-maximum-non-negative-product-in-a-matrix](https://github.com/Ashish-develper1010/leetcode/tree/main/1594-maximum-non-negative-product-in-a-matrix/) | Medium |
 | [1727-largest-submatrix-with-rearrangements](https://github.com/Ashish-develper1010/leetcode/tree/main/1727-largest-submatrix-with-rearrangements/) | Medium |
 | [1732-find-the-highest-altitude](https://github.com/Ashish-develper1010/leetcode/tree/main/1732-find-the-highest-altitude/) | Easy |
@@ -218,6 +219,7 @@ All leetcode questions are available here
 | [1277-count-square-submatrices-with-all-ones](https://github.com/Ashish-develper1010/leetcode/tree/main/1277-count-square-submatrices-with-all-ones/) | Medium |
 | [1320-minimum-distance-to-type-a-word-using-two-fingers](https://github.com/Ashish-develper1010/leetcode/tree/main/1320-minimum-distance-to-type-a-word-using-two-fingers/) | Hard |
 | [1340-jump-game-v](https://github.com/Ashish-develper1010/leetcode/tree/main/1340-jump-game-v/) | Hard |
+| [1569-number-of-ways-to-reorder-array-to-get-same-bst](https://github.com/Ashish-develper1010/leetcode/tree/main/1569-number-of-ways-to-reorder-array-to-get-same-bst/) | Hard |
 | [1594-maximum-non-negative-product-in-a-matrix](https://github.com/Ashish-develper1010/leetcode/tree/main/1594-maximum-non-negative-product-in-a-matrix/) | Medium |
 | [1888-minimum-number-of-flips-to-make-the-binary-string-alternating](https://github.com/Ashish-develper1010/leetcode/tree/main/1888-minimum-number-of-flips-to-make-the-binary-string-alternating/) | Medium |
 | [2573-find-the-string-with-lcp](https://github.com/Ashish-develper1010/leetcode/tree/main/2573-find-the-string-with-lcp/) | Hard |
@@ -290,6 +292,7 @@ All leetcode questions are available here
 | [0788-rotated-digits](https://github.com/Ashish-develper1010/leetcode/tree/main/0788-rotated-digits/) | Medium |
 | [0836-rectangle-overlap](https://github.com/Ashish-develper1010/leetcode/tree/main/0836-rectangle-overlap/) | Easy |
 | [1344-angle-between-hands-of-a-clock](https://github.com/Ashish-develper1010/leetcode/tree/main/1344-angle-between-hands-of-a-clock/) | Medium |
+| [1569-number-of-ways-to-reorder-array-to-get-same-bst](https://github.com/Ashish-develper1010/leetcode/tree/main/1569-number-of-ways-to-reorder-array-to-get-same-bst/) | Hard |
 | [1622-fancy-sequence](https://github.com/Ashish-develper1010/leetcode/tree/main/1622-fancy-sequence/) | Hard |
 | [1878-get-biggest-three-rhombus-sums-in-a-grid](https://github.com/Ashish-develper1010/leetcode/tree/main/1878-get-biggest-three-rhombus-sums-in-a-grid/) | Medium |
 | [2033-minimum-operations-to-make-a-uni-value-grid](https://github.com/Ashish-develper1010/leetcode/tree/main/2033-minimum-operations-to-make-a-uni-value-grid/) | Medium |
@@ -383,6 +386,7 @@ All leetcode questions are available here
 | [0785-is-graph-bipartite](https://github.com/Ashish-develper1010/leetcode/tree/main/0785-is-graph-bipartite/) | Medium |
 | [1391-check-if-there-is-a-valid-path-in-a-grid](https://github.com/Ashish-develper1010/leetcode/tree/main/1391-check-if-there-is-a-valid-path-in-a-grid/) | Medium |
 | [1559-detect-cycles-in-2d-grid](https://github.com/Ashish-develper1010/leetcode/tree/main/1559-detect-cycles-in-2d-grid/) | Medium |
+| [1569-number-of-ways-to-reorder-array-to-get-same-bst](https://github.com/Ashish-develper1010/leetcode/tree/main/1569-number-of-ways-to-reorder-array-to-get-same-bst/) | Hard |
 | [1971-find-if-path-exists-in-graph](https://github.com/Ashish-develper1010/leetcode/tree/main/1971-find-if-path-exists-in-graph/) | Easy |
 | [2573-find-the-string-with-lcp](https://github.com/Ashish-develper1010/leetcode/tree/main/2573-find-the-string-with-lcp/) | Hard |
 ## String Matching
@@ -393,6 +397,7 @@ All leetcode questions are available here
 ## Divide and Conquer
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [1569-number-of-ways-to-reorder-array-to-get-same-bst](https://github.com/Ashish-develper1010/leetcode/tree/main/1569-number-of-ways-to-reorder-array-to-get-same-bst/) | Hard |
 | [3653-xor-after-range-multiplication-queries-i](https://github.com/Ashish-develper1010/leetcode/tree/main/3653-xor-after-range-multiplication-queries-i/) | Medium |
 | [3655-xor-after-range-multiplication-queries-ii](https://github.com/Ashish-develper1010/leetcode/tree/main/3655-xor-after-range-multiplication-queries-ii/) | Hard |
 ## Geometry
@@ -452,6 +457,7 @@ All leetcode questions are available here
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0062-unique-paths](https://github.com/Ashish-develper1010/leetcode/tree/main/0062-unique-paths/) | Medium |
+| [1569-number-of-ways-to-reorder-array-to-get-same-bst](https://github.com/Ashish-develper1010/leetcode/tree/main/1569-number-of-ways-to-reorder-array-to-get-same-bst/) | Hard |
 ## Stack
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -480,6 +486,7 @@ All leetcode questions are available here
 | [0297-serialize-and-deserialize-binary-tree](https://github.com/Ashish-develper1010/leetcode/tree/main/0297-serialize-and-deserialize-binary-tree/) | Hard |
 | [0437-path-sum-iii](https://github.com/Ashish-develper1010/leetcode/tree/main/0437-path-sum-iii/) | Medium |
 | [0543-diameter-of-binary-tree](https://github.com/Ashish-develper1010/leetcode/tree/main/0543-diameter-of-binary-tree/) | Easy |
+| [1569-number-of-ways-to-reorder-array-to-get-same-bst](https://github.com/Ashish-develper1010/leetcode/tree/main/1569-number-of-ways-to-reorder-array-to-get-same-bst/) | Hard |
 | [2265-count-nodes-equal-to-average-of-subtree](https://github.com/Ashish-develper1010/leetcode/tree/main/2265-count-nodes-equal-to-average-of-subtree/) | Medium |
 | [3558-number-of-ways-to-assign-edge-weights-i](https://github.com/Ashish-develper1010/leetcode/tree/main/3558-number-of-ways-to-assign-edge-weights-i/) | Medium |
 ## Binary Tree
@@ -499,6 +506,7 @@ All leetcode questions are available here
 | [0297-serialize-and-deserialize-binary-tree](https://github.com/Ashish-develper1010/leetcode/tree/main/0297-serialize-and-deserialize-binary-tree/) | Hard |
 | [0437-path-sum-iii](https://github.com/Ashish-develper1010/leetcode/tree/main/0437-path-sum-iii/) | Medium |
 | [0543-diameter-of-binary-tree](https://github.com/Ashish-develper1010/leetcode/tree/main/0543-diameter-of-binary-tree/) | Easy |
+| [1569-number-of-ways-to-reorder-array-to-get-same-bst](https://github.com/Ashish-develper1010/leetcode/tree/main/1569-number-of-ways-to-reorder-array-to-get-same-bst/) | Hard |
 | [2265-count-nodes-equal-to-average-of-subtree](https://github.com/Ashish-develper1010/leetcode/tree/main/2265-count-nodes-equal-to-average-of-subtree/) | Medium |
 ## Linked List
 | Problem Name | Difficulty |
@@ -545,4 +553,16 @@ All leetcode questions are available here
 | [1021-remove-outermost-parentheses](https://github.com/Ashish-develper1010/leetcode/tree/main/1021-remove-outermost-parentheses/) | Easy |
 | [1190-reverse-substrings-between-each-pair-of-parentheses](https://github.com/Ashish-develper1010/leetcode/tree/main/1190-reverse-substrings-between-each-pair-of-parentheses/) | Medium |
 | [1541-minimum-insertions-to-balance-a-parentheses-string](https://github.com/Ashish-develper1010/leetcode/tree/main/1541-minimum-insertions-to-balance-a-parentheses-string/) | Medium |
+## Binary Search Tree
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [1569-number-of-ways-to-reorder-array-to-get-same-bst](https://github.com/Ashish-develper1010/leetcode/tree/main/1569-number-of-ways-to-reorder-array-to-get-same-bst/) | Hard |
+## Memoization
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [1569-number-of-ways-to-reorder-array-to-get-same-bst](https://github.com/Ashish-develper1010/leetcode/tree/main/1569-number-of-ways-to-reorder-array-to-get-same-bst/) | Hard |
+## Fermat's Little Theorem
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [1569-number-of-ways-to-reorder-array-to-get-same-bst](https://github.com/Ashish-develper1010/leetcode/tree/main/1569-number-of-ways-to-reorder-array-to-get-same-bst/) | Hard |
 <!---LeetCode Topics End-->
