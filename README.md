@@ -85,6 +85,7 @@ All leetcode questions are available here
 | [3727-maximum-alternating-sum-of-squares](https://github.com/Ashish-develper1010/leetcode/tree/main/3727-maximum-alternating-sum-of-squares/) | Medium |
 | [3740-minimum-distance-between-three-equal-elements-i](https://github.com/Ashish-develper1010/leetcode/tree/main/3740-minimum-distance-between-three-equal-elements-i/) | Easy |
 | [3761-minimum-absolute-distance-between-mirror-pairs](https://github.com/Ashish-develper1010/leetcode/tree/main/3761-minimum-absolute-distance-between-mirror-pairs/) | Medium |
+| [3886-sum-of-sortable-integers](https://github.com/Ashish-develper1010/leetcode/tree/main/3886-sum-of-sortable-integers/) | Hard |
 | [3903-smallest-stable-index-i](https://github.com/Ashish-develper1010/leetcode/tree/main/3903-smallest-stable-index-i/) | Easy |
 | [3904-smallest-stable-index-ii](https://github.com/Ashish-develper1010/leetcode/tree/main/3904-smallest-stable-index-ii/) | Medium |
 ## Greedy
@@ -310,6 +311,7 @@ All leetcode questions are available here
 | [3783-mirror-distance-of-an-integer](https://github.com/Ashish-develper1010/leetcode/tree/main/3783-mirror-distance-of-an-integer/) | Easy |
 | [3870-count-commas-in-range](https://github.com/Ashish-develper1010/leetcode/tree/main/3870-count-commas-in-range/) | Easy |
 | [3871-count-commas-in-range-ii](https://github.com/Ashish-develper1010/leetcode/tree/main/3871-count-commas-in-range-ii/) | Medium |
+| [3886-sum-of-sortable-integers](https://github.com/Ashish-develper1010/leetcode/tree/main/3886-sum-of-sortable-integers/) | Hard |
 ## Binary Search
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -362,6 +364,7 @@ All leetcode questions are available here
 | [3633-earliest-finish-time-for-land-and-water-rides-i](https://github.com/Ashish-develper1010/leetcode/tree/main/3633-earliest-finish-time-for-land-and-water-rides-i/) | Easy |
 | [3661-maximum-walls-destroyed-by-robots](https://github.com/Ashish-develper1010/leetcode/tree/main/3661-maximum-walls-destroyed-by-robots/) | Hard |
 | [3727-maximum-alternating-sum-of-squares](https://github.com/Ashish-develper1010/leetcode/tree/main/3727-maximum-alternating-sum-of-squares/) | Medium |
+| [3886-sum-of-sortable-integers](https://github.com/Ashish-develper1010/leetcode/tree/main/3886-sum-of-sortable-integers/) | Hard |
 ## Two Pointers
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -381,6 +384,7 @@ All leetcode questions are available here
 | [2778-sum-of-squares-of-special-elements](https://github.com/Ashish-develper1010/leetcode/tree/main/2778-sum-of-squares-of-special-elements/) | Easy |
 | [3546-equal-sum-grid-partition-i](https://github.com/Ashish-develper1010/leetcode/tree/main/3546-equal-sum-grid-partition-i/) | Medium |
 | [3548-equal-sum-grid-partition-ii](https://github.com/Ashish-develper1010/leetcode/tree/main/3548-equal-sum-grid-partition-ii/) | Hard |
+| [3886-sum-of-sortable-integers](https://github.com/Ashish-develper1010/leetcode/tree/main/3886-sum-of-sortable-integers/) | Hard |
 ## Union-Find
 | Problem Name | Difficulty |
 | ------- | ------- |
