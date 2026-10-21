@@ -174,6 +174,7 @@ All leetcode questions are available here
 | [3474-lexicographically-smallest-generated-string](https://github.com/Ashish-develper1010/leetcode/tree/main/3474-lexicographically-smallest-generated-string/) | Hard |
 | [3498-reverse-degree-of-a-string](https://github.com/Ashish-develper1010/leetcode/tree/main/3498-reverse-degree-of-a-string/) | Easy |
 | [3614-process-string-with-special-operations-ii](https://github.com/Ashish-develper1010/leetcode/tree/main/3614-process-string-with-special-operations-ii/) | Hard |
+| [3863-minimum-operations-to-sort-a-string](https://github.com/Ashish-develper1010/leetcode/tree/main/3863-minimum-operations-to-sort-a-string/) | Medium |
 ## Recursion
 | Problem Name | Difficulty |
 | ------- | ------- |
