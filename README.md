@@ -32,6 +32,7 @@ All leetcode questions are available here
 | [1306-jump-game-iii](https://github.com/Ashish-develper1010/leetcode/tree/main/1306-jump-game-iii/) | Medium |
 | [1340-jump-game-v](https://github.com/Ashish-develper1010/leetcode/tree/main/1340-jump-game-v/) | Hard |
 | [1345-jump-game-iv](https://github.com/Ashish-develper1010/leetcode/tree/main/1345-jump-game-iv/) | Hard |
+| [1385-find-the-distance-value-between-two-arrays](https://github.com/Ashish-develper1010/leetcode/tree/main/1385-find-the-distance-value-between-two-arrays/) | Easy |
 | [1391-check-if-there-is-a-valid-path-in-a-grid](https://github.com/Ashish-develper1010/leetcode/tree/main/1391-check-if-there-is-a-valid-path-in-a-grid/) | Medium |
 | [1497-check-if-array-pairs-are-divisible-by-k](https://github.com/Ashish-develper1010/leetcode/tree/main/1497-check-if-array-pairs-are-divisible-by-k/) | Medium |
 | [1536-minimum-swaps-to-arrange-a-binary-grid](https://github.com/Ashish-develper1010/leetcode/tree/main/1536-minimum-swaps-to-arrange-a-binary-grid/) | Medium |
@@ -321,6 +322,7 @@ All leetcode questions are available here
 | [0081-search-in-rotated-sorted-array-ii](https://github.com/Ashish-develper1010/leetcode/tree/main/0081-search-in-rotated-sorted-array-ii/) | Medium |
 | [0154-find-minimum-in-rotated-sorted-array-ii](https://github.com/Ashish-develper1010/leetcode/tree/main/0154-find-minimum-in-rotated-sorted-array-ii/) | Hard |
 | [0300-longest-increasing-subsequence](https://github.com/Ashish-develper1010/leetcode/tree/main/0300-longest-increasing-subsequence/) | Medium |
+| [1385-find-the-distance-value-between-two-arrays](https://github.com/Ashish-develper1010/leetcode/tree/main/1385-find-the-distance-value-between-two-arrays/) | Easy |
 | [1855-maximum-distance-between-a-pair-of-values](https://github.com/Ashish-develper1010/leetcode/tree/main/1855-maximum-distance-between-a-pair-of-values/) | Medium |
 | [2089-find-target-indices-after-sorting-array](https://github.com/Ashish-develper1010/leetcode/tree/main/2089-find-target-indices-after-sorting-array/) | Easy |
 | [2333-minimum-sum-of-squared-difference](https://github.com/Ashish-develper1010/leetcode/tree/main/2333-minimum-sum-of-squared-difference/) | Medium |
@@ -354,6 +356,7 @@ All leetcode questions are available here
 | ------- | ------- |
 | [0229-majority-element-ii](https://github.com/Ashish-develper1010/leetcode/tree/main/0229-majority-element-ii/) | Medium |
 | [1340-jump-game-v](https://github.com/Ashish-develper1010/leetcode/tree/main/1340-jump-game-v/) | Hard |
+| [1385-find-the-distance-value-between-two-arrays](https://github.com/Ashish-develper1010/leetcode/tree/main/1385-find-the-distance-value-between-two-arrays/) | Easy |
 | [1727-largest-submatrix-with-rearrangements](https://github.com/Ashish-develper1010/leetcode/tree/main/1727-largest-submatrix-with-rearrangements/) | Medium |
 | [1833-maximum-ice-cream-bars](https://github.com/Ashish-develper1010/leetcode/tree/main/1833-maximum-ice-cream-bars/) | Medium |
 | [1878-get-biggest-three-rhombus-sums-in-a-grid](https://github.com/Ashish-develper1010/leetcode/tree/main/1878-get-biggest-three-rhombus-sums-in-a-grid/) | Medium |
@@ -374,6 +377,7 @@ All leetcode questions are available here
 | [0026-remove-duplicates-from-sorted-array](https://github.com/Ashish-develper1010/leetcode/tree/main/0026-remove-duplicates-from-sorted-array/) | Easy |
 | [0061-rotate-list](https://github.com/Ashish-develper1010/leetcode/tree/main/0061-rotate-list/) | Medium |
 | [0647-palindromic-substrings](https://github.com/Ashish-develper1010/leetcode/tree/main/0647-palindromic-substrings/) | Medium |
+| [1385-find-the-distance-value-between-two-arrays](https://github.com/Ashish-develper1010/leetcode/tree/main/1385-find-the-distance-value-between-two-arrays/) | Easy |
 | [1855-maximum-distance-between-a-pair-of-values](https://github.com/Ashish-develper1010/leetcode/tree/main/1855-maximum-distance-between-a-pair-of-values/) | Medium |
 | [1861-rotating-the-box](https://github.com/Ashish-develper1010/leetcode/tree/main/1861-rotating-the-box/) | Medium |
 | [2130-maximum-twin-sum-of-a-linked-list](https://github.com/Ashish-develper1010/leetcode/tree/main/2130-maximum-twin-sum-of-a-linked-list/) | Medium |
