@@ -47,6 +47,7 @@ All leetcode questions are available here
 | [1855-maximum-distance-between-a-pair-of-values](https://github.com/Ashish-develper1010/leetcode/tree/main/1855-maximum-distance-between-a-pair-of-values/) | Medium |
 | [1861-rotating-the-box](https://github.com/Ashish-develper1010/leetcode/tree/main/1861-rotating-the-box/) | Medium |
 | [1878-get-biggest-three-rhombus-sums-in-a-grid](https://github.com/Ashish-develper1010/leetcode/tree/main/1878-get-biggest-three-rhombus-sums-in-a-grid/) | Medium |
+| [1882-process-tasks-using-servers](https://github.com/Ashish-develper1010/leetcode/tree/main/1882-process-tasks-using-servers/) | Medium |
 | [1914-cyclically-rotating-a-grid](https://github.com/Ashish-develper1010/leetcode/tree/main/1914-cyclically-rotating-a-grid/) | Medium |
 | [1980-find-unique-binary-string](https://github.com/Ashish-develper1010/leetcode/tree/main/1980-find-unique-binary-string/) | Medium |
 | [2033-minimum-operations-to-make-a-uni-value-grid](https://github.com/Ashish-develper1010/leetcode/tree/main/2033-minimum-operations-to-make-a-uni-value-grid/) | Medium |
@@ -339,6 +340,7 @@ All leetcode questions are available here
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [1878-get-biggest-three-rhombus-sums-in-a-grid](https://github.com/Ashish-develper1010/leetcode/tree/main/1878-get-biggest-three-rhombus-sums-in-a-grid/) | Medium |
+| [1882-process-tasks-using-servers](https://github.com/Ashish-develper1010/leetcode/tree/main/1882-process-tasks-using-servers/) | Medium |
 | [2333-minimum-sum-of-squared-difference](https://github.com/Ashish-develper1010/leetcode/tree/main/2333-minimum-sum-of-squared-difference/) | Medium |
 | [3296-minimum-number-of-seconds-to-make-mountain-height-zero](https://github.com/Ashish-develper1010/leetcode/tree/main/3296-minimum-number-of-seconds-to-make-mountain-height-zero/) | Medium |
 | [3691-maximum-total-subarray-value-ii](https://github.com/Ashish-develper1010/leetcode/tree/main/3691-maximum-total-subarray-value-ii/) | Hard |
