@@ -113,6 +113,7 @@ All leetcode questions are available here
 | [3633-earliest-finish-time-for-land-and-water-rides-i](https://github.com/Ashish-develper1010/leetcode/tree/main/3633-earliest-finish-time-for-land-and-water-rides-i/) | Easy |
 | [3691-maximum-total-subarray-value-ii](https://github.com/Ashish-develper1010/leetcode/tree/main/3691-maximum-total-subarray-value-ii/) | Hard |
 | [3727-maximum-alternating-sum-of-squares](https://github.com/Ashish-develper1010/leetcode/tree/main/3727-maximum-alternating-sum-of-squares/) | Medium |
+| [3789-minimum-cost-to-acquire-required-items](https://github.com/Ashish-develper1010/leetcode/tree/main/3789-minimum-cost-to-acquire-required-items/) | Medium |
 ## Matrix
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -318,6 +319,7 @@ All leetcode questions are available here
 | [3753-total-waviness-of-numbers-in-range-ii](https://github.com/Ashish-develper1010/leetcode/tree/main/3753-total-waviness-of-numbers-in-range-ii/) | Hard |
 | [3761-minimum-absolute-distance-between-mirror-pairs](https://github.com/Ashish-develper1010/leetcode/tree/main/3761-minimum-absolute-distance-between-mirror-pairs/) | Medium |
 | [3783-mirror-distance-of-an-integer](https://github.com/Ashish-develper1010/leetcode/tree/main/3783-mirror-distance-of-an-integer/) | Easy |
+| [3789-minimum-cost-to-acquire-required-items](https://github.com/Ashish-develper1010/leetcode/tree/main/3789-minimum-cost-to-acquire-required-items/) | Medium |
 | [3870-count-commas-in-range](https://github.com/Ashish-develper1010/leetcode/tree/main/3870-count-commas-in-range/) | Easy |
 | [3871-count-commas-in-range-ii](https://github.com/Ashish-develper1010/leetcode/tree/main/3871-count-commas-in-range-ii/) | Medium |
 | [3886-sum-of-sortable-integers](https://github.com/Ashish-develper1010/leetcode/tree/main/3886-sum-of-sortable-integers/) | Hard |
