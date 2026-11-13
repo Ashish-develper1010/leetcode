@@ -73,6 +73,7 @@ All leetcode questions are available here
 | [3296-minimum-number-of-seconds-to-make-mountain-height-zero](https://github.com/Ashish-develper1010/leetcode/tree/main/3296-minimum-number-of-seconds-to-make-mountain-height-zero/) | Medium |
 | [3300-minimum-element-after-replacement-with-digit-sum](https://github.com/Ashish-develper1010/leetcode/tree/main/3300-minimum-element-after-replacement-with-digit-sum/) | Easy |
 | [3418-maximum-amount-of-money-robot-can-earn](https://github.com/Ashish-develper1010/leetcode/tree/main/3418-maximum-amount-of-money-robot-can-earn/) | Medium |
+| [3420-count-non-decreasing-subarrays-after-k-operations](https://github.com/Ashish-develper1010/leetcode/tree/main/3420-count-non-decreasing-subarrays-after-k-operations/) | Hard |
 | [3464-maximize-the-distance-between-points-on-a-square](https://github.com/Ashish-develper1010/leetcode/tree/main/3464-maximize-the-distance-between-points-on-a-square/) | Hard |
 | [3546-equal-sum-grid-partition-i](https://github.com/Ashish-develper1010/leetcode/tree/main/3546-equal-sum-grid-partition-i/) | Medium |
 | [3548-equal-sum-grid-partition-ii](https://github.com/Ashish-develper1010/leetcode/tree/main/3548-equal-sum-grid-partition-ii/) | Hard |
@@ -245,6 +246,7 @@ All leetcode questions are available here
 | ------- | ------- |
 | [1888-minimum-number-of-flips-to-make-the-binary-string-alternating](https://github.com/Ashish-develper1010/leetcode/tree/main/1888-minimum-number-of-flips-to-make-the-binary-string-alternating/) | Medium |
 | [2747-count-zero-request-servers](https://github.com/Ashish-develper1010/leetcode/tree/main/2747-count-zero-request-servers/) | Medium |
+| [3420-count-non-decreasing-subarrays-after-k-operations](https://github.com/Ashish-develper1010/leetcode/tree/main/3420-count-non-decreasing-subarrays-after-k-operations/) | Hard |
 ## Hash Table
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -360,6 +362,7 @@ All leetcode questions are available here
 | ------- | ------- |
 | [1622-fancy-sequence](https://github.com/Ashish-develper1010/leetcode/tree/main/1622-fancy-sequence/) | Hard |
 | [3161-block-placement-queries](https://github.com/Ashish-develper1010/leetcode/tree/main/3161-block-placement-queries/) | Hard |
+| [3420-count-non-decreasing-subarrays-after-k-operations](https://github.com/Ashish-develper1010/leetcode/tree/main/3420-count-non-decreasing-subarrays-after-k-operations/) | Hard |
 | [3691-maximum-total-subarray-value-ii](https://github.com/Ashish-develper1010/leetcode/tree/main/3691-maximum-total-subarray-value-ii/) | Hard |
 ## Sorting
 | Problem Name | Difficulty |
@@ -493,6 +496,7 @@ All leetcode questions are available here
 | [1190-reverse-substrings-between-each-pair-of-parentheses](https://github.com/Ashish-develper1010/leetcode/tree/main/1190-reverse-substrings-between-each-pair-of-parentheses/) | Medium |
 | [1541-minimum-insertions-to-balance-a-parentheses-string](https://github.com/Ashish-develper1010/leetcode/tree/main/1541-minimum-insertions-to-balance-a-parentheses-string/) | Medium |
 | [2130-maximum-twin-sum-of-a-linked-list](https://github.com/Ashish-develper1010/leetcode/tree/main/2130-maximum-twin-sum-of-a-linked-list/) | Medium |
+| [3420-count-non-decreasing-subarrays-after-k-operations](https://github.com/Ashish-develper1010/leetcode/tree/main/3420-count-non-decreasing-subarrays-after-k-operations/) | Hard |
 ## Tree
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -589,4 +593,16 @@ All leetcode questions are available here
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [1569-number-of-ways-to-reorder-array-to-get-same-bst](https://github.com/Ashish-develper1010/leetcode/tree/main/1569-number-of-ways-to-reorder-array-to-get-same-bst/) | Hard |
+## Queue
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [3420-count-non-decreasing-subarrays-after-k-operations](https://github.com/Ashish-develper1010/leetcode/tree/main/3420-count-non-decreasing-subarrays-after-k-operations/) | Hard |
+## Monotonic Stack
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [3420-count-non-decreasing-subarrays-after-k-operations](https://github.com/Ashish-develper1010/leetcode/tree/main/3420-count-non-decreasing-subarrays-after-k-operations/) | Hard |
+## Monotonic Queue
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [3420-count-non-decreasing-subarrays-after-k-operations](https://github.com/Ashish-develper1010/leetcode/tree/main/3420-count-non-decreasing-subarrays-after-k-operations/) | Hard |
 <!---LeetCode Topics End-->
