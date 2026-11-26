@@ -200,6 +200,7 @@ All leetcode questions are available here
 | [2069-walking-robot-simulation-ii](https://github.com/Ashish-develper1010/leetcode/tree/main/2069-walking-robot-simulation-ii/) | Medium |
 | [2075-decode-the-slanted-ciphertext](https://github.com/Ashish-develper1010/leetcode/tree/main/2075-decode-the-slanted-ciphertext/) | Medium |
 | [2946-matrix-similarity-after-cyclic-shifts](https://github.com/Ashish-develper1010/leetcode/tree/main/2946-matrix-similarity-after-cyclic-shifts/) | Easy |
+| [3360-stone-removal-game](https://github.com/Ashish-develper1010/leetcode/tree/main/3360-stone-removal-game/) | Easy |
 | [3498-reverse-degree-of-a-string](https://github.com/Ashish-develper1010/leetcode/tree/main/3498-reverse-degree-of-a-string/) | Easy |
 | [3614-process-string-with-special-operations-ii](https://github.com/Ashish-develper1010/leetcode/tree/main/3614-process-string-with-special-operations-ii/) | Hard |
 | [3653-xor-after-range-multiplication-queries-i](https://github.com/Ashish-develper1010/leetcode/tree/main/3653-xor-after-range-multiplication-queries-i/) | Medium |
@@ -319,6 +320,7 @@ All leetcode questions are available here
 | [2946-matrix-similarity-after-cyclic-shifts](https://github.com/Ashish-develper1010/leetcode/tree/main/2946-matrix-similarity-after-cyclic-shifts/) | Easy |
 | [3296-minimum-number-of-seconds-to-make-mountain-height-zero](https://github.com/Ashish-develper1010/leetcode/tree/main/3296-minimum-number-of-seconds-to-make-mountain-height-zero/) | Medium |
 | [3300-minimum-element-after-replacement-with-digit-sum](https://github.com/Ashish-develper1010/leetcode/tree/main/3300-minimum-element-after-replacement-with-digit-sum/) | Easy |
+| [3360-stone-removal-game](https://github.com/Ashish-develper1010/leetcode/tree/main/3360-stone-removal-game/) | Easy |
 | [3464-maximize-the-distance-between-points-on-a-square](https://github.com/Ashish-develper1010/leetcode/tree/main/3464-maximize-the-distance-between-points-on-a-square/) | Hard |
 | [3550-smallest-index-with-digit-sum-equal-to-index](https://github.com/Ashish-develper1010/leetcode/tree/main/3550-smallest-index-with-digit-sum-equal-to-index/) | Easy |
 | [3558-number-of-ways-to-assign-edge-weights-i](https://github.com/Ashish-develper1010/leetcode/tree/main/3558-number-of-ways-to-assign-edge-weights-i/) | Medium |
